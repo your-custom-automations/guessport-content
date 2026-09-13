@@ -1,0 +1,11 @@
+{
+ "version": "2026.09.13.1253",
+ "photosBase": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@4751f0358f7235dc5d06a568fea78a571a5969de/photos",
+ "files": {
+  "photo_credits": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@4751f0358f7235dc5d06a568fea78a571a5969de/content/photo_credits.json",
+  "country_facts": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@4751f0358f7235dc5d06a568fea78a571a5969de/content/country_facts.json",
+  "countries_game": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@4751f0358f7235dc5d06a568fea78a571a5969de/content/countries_game.json",
+  "puzzles": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@4751f0358f7235dc5d06a568fea78a571a5969de/content/puzzles.json"
+ },
+ "minBuild": 16
+}
