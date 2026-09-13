@@ -1,0 +1,4559 @@
+[
+ {
+  "code": "AF",
+  "name": "Afghanistan",
+  "official": "Islamic Republic of Afghanistan",
+  "aliases": [
+   "Afghanistan",
+   "Afġānistān",
+   "Islamic Republic of Afghanistan"
+  ],
+  "capital": "Kabul",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 33,
+  "lon": 65,
+  "areaKm2": 652230,
+  "flag": "🇦🇫",
+  "inPuzzlePool": true,
+  "borders": [
+   "IR",
+   "PK",
+   "TM",
+   "UZ",
+   "TJ",
+   "CN"
+  ]
+ },
+ {
+  "code": "AO",
+  "name": "Angola",
+  "official": "Republic of Angola",
+  "aliases": [
+   "Angola",
+   "Republic of Angola",
+   "República de Angola",
+   "ʁɛpublika de an'ɡɔla"
+  ],
+  "capital": "Luanda",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": -12.5,
+  "lon": 18.5,
+  "areaKm2": 1246700,
+  "flag": "🇦🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "CG",
+   "CD",
+   "ZM",
+   "NA"
+  ]
+ },
+ {
+  "code": "AL",
+  "name": "Albania",
+  "official": "Republic of Albania",
+  "aliases": [
+   "Albania",
+   "Republic of Albania",
+   "Shqipnia",
+   "Shqipëri",
+   "Shqipëria"
+  ],
+  "capital": "Tirana",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 41,
+  "lon": 20,
+  "areaKm2": 28748,
+  "flag": "🇦🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "ME",
+   "GR",
+   "MK",
+   "XK"
+  ]
+ },
+ {
+  "code": "AD",
+  "name": "Andorra",
+  "official": "Principality of Andorra",
+  "aliases": [
+   "Andorra",
+   "Principality of Andorra",
+   "Principat d'Andorra"
+  ],
+  "capital": "Andorra la Vella",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 42.5,
+  "lon": 1.5,
+  "areaKm2": 468,
+  "flag": "🇦🇩",
+  "inPuzzlePool": false,
+  "borders": [
+   "FR",
+   "ES"
+  ]
+ },
+ {
+  "code": "AE",
+  "name": "United Arab Emirates",
+  "official": "United Arab Emirates",
+  "aliases": [
+   "Emirates",
+   "United Arab Emirates"
+  ],
+  "capital": "Abu Dhabi",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 24,
+  "lon": 54,
+  "areaKm2": 83600,
+  "flag": "🇦🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "OM",
+   "SA"
+  ]
+ },
+ {
+  "code": "AR",
+  "name": "Argentina",
+  "official": "Argentine Republic",
+  "aliases": [
+   "Argentina",
+   "Argentine Republic",
+   "República Argentina"
+  ],
+  "capital": "Buenos Aires",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -34,
+  "lon": -64,
+  "areaKm2": 2780400,
+  "flag": "🇦🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "BO",
+   "BR",
+   "CL",
+   "PY",
+   "UY"
+  ]
+ },
+ {
+  "code": "AM",
+  "name": "Armenia",
+  "official": "Republic of Armenia",
+  "aliases": [
+   "Armenia",
+   "Hayastan",
+   "Republic of Armenia",
+   "Հայաստանի Հանրապետություն"
+  ],
+  "capital": "Yerevan",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 40,
+  "lon": 45,
+  "areaKm2": 29743,
+  "flag": "🇦🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "AZ",
+   "GE",
+   "IR",
+   "TR"
+  ]
+ },
+ {
+  "code": "AG",
+  "name": "Antigua and Barbuda",
+  "official": "Antigua and Barbuda",
+  "aliases": [
+   "Antigua and Barbuda"
+  ],
+  "capital": "Saint John's",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 17.05,
+  "lon": -61.8,
+  "areaKm2": 442,
+  "flag": "🇦🇬",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "AU",
+  "name": "Australia",
+  "official": "Commonwealth of Australia",
+  "aliases": [
+   "Australia",
+   "Commonwealth of Australia"
+  ],
+  "capital": "Canberra",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "lat": -27,
+  "lon": 133,
+  "areaKm2": 7692024,
+  "flag": "🇦🇺",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "AT",
+  "name": "Austria",
+  "official": "Republic of Austria",
+  "aliases": [
+   "Austria",
+   "Oesterreich",
+   "Osterreich",
+   "Republic of Austria"
+  ],
+  "capital": "Vienna",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 47.33333333,
+  "lon": 13.33333333,
+  "areaKm2": 83871,
+  "flag": "🇦🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "CZ",
+   "DE",
+   "HU",
+   "IT",
+   "LI",
+   "SK",
+   "SI",
+   "CH"
+  ]
+ },
+ {
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "official": "Republic of Azerbaijan",
+  "aliases": [
+   "Azerbaijan",
+   "Azərbaycan Respublikası",
+   "Republic of Azerbaijan"
+  ],
+  "capital": "Baku",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 40.5,
+  "lon": 47.5,
+  "areaKm2": 86600,
+  "flag": "🇦🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "AM",
+   "GE",
+   "IR",
+   "RU",
+   "TR"
+  ]
+ },
+ {
+  "code": "BI",
+  "name": "Burundi",
+  "official": "Republic of Burundi",
+  "aliases": [
+   "Burundi",
+   "Republic of Burundi",
+   "Republika y'Uburundi",
+   "République du Burundi"
+  ],
+  "capital": "Gitega",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -3.5,
+  "lon": 30,
+  "areaKm2": 27834,
+  "flag": "🇧🇮",
+  "inPuzzlePool": true,
+  "borders": [
+   "CD",
+   "RW",
+   "TZ"
+  ]
+ },
+ {
+  "code": "BE",
+  "name": "Belgium",
+  "official": "Kingdom of Belgium",
+  "aliases": [
+   "Belgie",
+   "Belgien",
+   "Belgique",
+   "Belgium",
+   "België",
+   "Kingdom of Belgium",
+   "Koninkrijk België",
+   "Königreich Belgien",
+   "Royaume de Belgique"
+  ],
+  "capital": "Brussels",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 50.83333333,
+  "lon": 4,
+  "areaKm2": 30528,
+  "flag": "🇧🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "FR",
+   "DE",
+   "LU",
+   "NL"
+  ]
+ },
+ {
+  "code": "BJ",
+  "name": "Benin",
+  "official": "Republic of Benin",
+  "aliases": [
+   "Benin",
+   "Republic of Benin",
+   "République du Bénin"
+  ],
+  "capital": "Porto-Novo",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 9.5,
+  "lon": 2.25,
+  "areaKm2": 112622,
+  "flag": "🇧🇯",
+  "inPuzzlePool": true,
+  "borders": [
+   "BF",
+   "NE",
+   "NG",
+   "TG"
+  ]
+ },
+ {
+  "code": "BF",
+  "name": "Burkina Faso",
+  "official": "Burkina Faso",
+  "aliases": [
+   "Burkina Faso"
+  ],
+  "capital": "Ouagadougou",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 13,
+  "lon": -2,
+  "areaKm2": 272967,
+  "flag": "🇧🇫",
+  "inPuzzlePool": true,
+  "borders": [
+   "BJ",
+   "CI",
+   "GH",
+   "ML",
+   "NE",
+   "TG"
+  ]
+ },
+ {
+  "code": "BD",
+  "name": "Bangladesh",
+  "official": "People's Republic of Bangladesh",
+  "aliases": [
+   "Bangladesh",
+   "Gônôprôjatôntri Bangladesh",
+   "People's Republic of Bangladesh"
+  ],
+  "capital": "Dhaka",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 24,
+  "lon": 90,
+  "areaKm2": 147570,
+  "flag": "🇧🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "MM",
+   "IN"
+  ]
+ },
+ {
+  "code": "BG",
+  "name": "Bulgaria",
+  "official": "Republic of Bulgaria",
+  "aliases": [
+   "Bulgaria",
+   "Republic of Bulgaria",
+   "Република България"
+  ],
+  "capital": "Sofia",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 43,
+  "lon": 25,
+  "areaKm2": 110879,
+  "flag": "🇧🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "GR",
+   "MK",
+   "RO",
+   "RS",
+   "TR"
+  ]
+ },
+ {
+  "code": "BH",
+  "name": "Bahrain",
+  "official": "Kingdom of Bahrain",
+  "aliases": [
+   "Bahrain",
+   "Kingdom of Bahrain",
+   "Mamlakat al-Baḥrayn"
+  ],
+  "capital": "Manama",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 26,
+  "lon": 50.55,
+  "areaKm2": 765,
+  "flag": "🇧🇭",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "BS",
+  "name": "Bahamas",
+  "official": "Commonwealth of the Bahamas",
+  "aliases": [
+   "Bahamas",
+   "Commonwealth of the Bahamas"
+  ],
+  "capital": "Nassau",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 24.25,
+  "lon": -76,
+  "areaKm2": 13943,
+  "flag": "🇧🇸",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "BA",
+  "name": "Bosnia and Herzegovina",
+  "official": "Bosnia and Herzegovina",
+  "aliases": [
+   "Bosnia and Herzegovina",
+   "Bosnia-Herzegovina",
+   "Босна и Херцеговина"
+  ],
+  "capital": "Sarajevo",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 44,
+  "lon": 18,
+  "areaKm2": 51209,
+  "flag": "🇧🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "HR",
+   "ME",
+   "RS"
+  ]
+ },
+ {
+  "code": "BY",
+  "name": "Belarus",
+  "official": "Republic of Belarus",
+  "aliases": [
+   "Belarus",
+   "Bielaruś",
+   "Republic of Belarus",
+   "Белоруссия",
+   "Республика Белоруссия"
+  ],
+  "capital": "Minsk",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "lat": 53,
+  "lon": 28,
+  "areaKm2": 207600,
+  "flag": "🇧🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "LV",
+   "LT",
+   "PL",
+   "RU",
+   "UA"
+  ]
+ },
+ {
+  "code": "BZ",
+  "name": "Belize",
+  "official": "Belize",
+  "aliases": [
+   "Belize"
+  ],
+  "capital": "Belmopan",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 17.25,
+  "lon": -88.75,
+  "areaKm2": 22966,
+  "flag": "🇧🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "GT",
+   "MX"
+  ]
+ },
+ {
+  "code": "BO",
+  "name": "Bolivia",
+  "official": "Plurinational State of Bolivia",
+  "aliases": [
+   "Bolivia",
+   "Bolivia, Plurinational State of",
+   "Buliwya",
+   "Buliwya Mamallaqta",
+   "Estado Plurinacional de Bolivia",
+   "Plurinational State of Bolivia",
+   "Tetã Volívia",
+   "Wuliwya",
+   "Wuliwya Suyu"
+  ],
+  "capital": "Sucre",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -17,
+  "lon": -65,
+  "areaKm2": 1098581,
+  "flag": "🇧🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "AR",
+   "BR",
+   "CL",
+   "PY",
+   "PE"
+  ]
+ },
+ {
+  "code": "BR",
+  "name": "Brazil",
+  "official": "Federative Republic of Brazil",
+  "aliases": [
+   "Brasil",
+   "Brazil",
+   "Federative Republic of Brazil",
+   "República Federativa do Brasil"
+  ],
+  "capital": "Brasília",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -10,
+  "lon": -55,
+  "areaKm2": 8515767,
+  "flag": "🇧🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "AR",
+   "BO",
+   "CO",
+   "GF",
+   "GY",
+   "PY",
+   "PE",
+   "SR",
+   "UY",
+   "VE"
+  ]
+ },
+ {
+  "code": "BB",
+  "name": "Barbados",
+  "official": "Barbados",
+  "aliases": [
+   "Barbados"
+  ],
+  "capital": "Bridgetown",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 13.16666666,
+  "lon": -59.53333333,
+  "areaKm2": 430,
+  "flag": "🇧🇧",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "BN",
+  "name": "Brunei",
+  "official": "Nation of Brunei, Abode of Peace",
+  "aliases": [
+   "Brunei",
+   "Brunei Darussalam",
+   "Nation of Brunei",
+   "Nation of Brunei, Abode of Peace",
+   "the Abode of Peace"
+  ],
+  "capital": "Bandar Seri Begawan",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 4.5,
+  "lon": 114.66666666,
+  "areaKm2": 5765,
+  "flag": "🇧🇳",
+  "inPuzzlePool": false,
+  "borders": [
+   "MY"
+  ]
+ },
+ {
+  "code": "BT",
+  "name": "Bhutan",
+  "official": "Kingdom of Bhutan",
+  "aliases": [
+   "Bhutan",
+   "Kingdom of Bhutan"
+  ],
+  "capital": "Thimphu",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 27.5,
+  "lon": 90.5,
+  "areaKm2": 38394,
+  "flag": "🇧🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "IN"
+  ]
+ },
+ {
+  "code": "BW",
+  "name": "Botswana",
+  "official": "Republic of Botswana",
+  "aliases": [
+   "Botswana",
+   "Lefatshe la Botswana",
+   "Republic of Botswana"
+  ],
+  "capital": "Gaborone",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "lat": -22,
+  "lon": 24,
+  "areaKm2": 582000,
+  "flag": "🇧🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "NA",
+   "ZA",
+   "ZM",
+   "ZW"
+  ]
+ },
+ {
+  "code": "CF",
+  "name": "Central African Republic",
+  "official": "Central African Republic",
+  "aliases": [
+   "Central African Republic",
+   "République centrafricaine"
+  ],
+  "capital": "Bangui",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 7,
+  "lon": 21,
+  "areaKm2": 622984,
+  "flag": "🇨🇫",
+  "inPuzzlePool": true,
+  "borders": [
+   "CM",
+   "TD",
+   "CD",
+   "CG",
+   "SS",
+   "SD"
+  ]
+ },
+ {
+  "code": "CA",
+  "name": "Canada",
+  "official": "Canada",
+  "aliases": [
+   "Canada"
+  ],
+  "capital": "Ottawa",
+  "region": "Americas",
+  "subregion": "North America",
+  "lat": 60,
+  "lon": -95,
+  "areaKm2": 9984670,
+  "flag": "🇨🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "US"
+  ]
+ },
+ {
+  "code": "CH",
+  "name": "Switzerland",
+  "official": "Swiss Confederation",
+  "aliases": [
+   "Schweiz",
+   "Suisse",
+   "Svizra",
+   "Svizzera",
+   "Swiss Confederation",
+   "Switzerland"
+  ],
+  "capital": "Bern",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 47,
+  "lon": 8,
+  "areaKm2": 41284,
+  "flag": "🇨🇭",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "FR",
+   "IT",
+   "LI",
+   "DE"
+  ]
+ },
+ {
+  "code": "CL",
+  "name": "Chile",
+  "official": "Republic of Chile",
+  "aliases": [
+   "Chile",
+   "Republic of Chile",
+   "República de Chile"
+  ],
+  "capital": "Santiago",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -30,
+  "lon": -71,
+  "areaKm2": 756102,
+  "flag": "🇨🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "AR",
+   "BO",
+   "PE"
+  ]
+ },
+ {
+  "code": "CN",
+  "name": "China",
+  "official": "People's Republic of China",
+  "aliases": [
+   "China",
+   "People's Republic of China",
+   "Zhongguo",
+   "Zhonghua",
+   "Zhōngguó",
+   "Zhōnghuá Rénmín Gònghéguó",
+   "中华人民共和国"
+  ],
+  "capital": "Beijing",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "lat": 35,
+  "lon": 105,
+  "areaKm2": 9706961,
+  "flag": "🇨🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "BT",
+   "MM",
+   "HK",
+   "IN",
+   "KZ",
+   "NP",
+   "KP",
+   "KG",
+   "LA",
+   "MO",
+   "MN",
+   "PK",
+   "RU",
+   "TJ",
+   "VN"
+  ]
+ },
+ {
+  "code": "CI",
+  "name": "Ivory Coast",
+  "official": "Republic of Côte d'Ivoire",
+  "aliases": [
+   "Cote d'Ivoire",
+   "Côte d'Ivoire",
+   "Ivory Coast",
+   "Republic of Côte d'Ivoire",
+   "République de Côte d'Ivoire"
+  ],
+  "capital": "Yamoussoukro",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 8,
+  "lon": -5,
+  "areaKm2": 322463,
+  "flag": "🇨🇮",
+  "inPuzzlePool": true,
+  "borders": [
+   "BF",
+   "GH",
+   "GN",
+   "LR",
+   "ML"
+  ]
+ },
+ {
+  "code": "CM",
+  "name": "Cameroon",
+  "official": "Republic of Cameroon",
+  "aliases": [
+   "Cameroon",
+   "Republic of Cameroon",
+   "République du Cameroun"
+  ],
+  "capital": "Yaoundé",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 6,
+  "lon": 12,
+  "areaKm2": 475442,
+  "flag": "🇨🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "CF",
+   "TD",
+   "CG",
+   "GQ",
+   "GA",
+   "NG"
+  ]
+ },
+ {
+  "code": "CD",
+  "name": "DR Congo",
+  "official": "Democratic Republic of the Congo",
+  "aliases": [
+   "Congo, the Democratic Republic of the",
+   "Congo-Kinshasa",
+   "DR Congo",
+   "Democratic Republic of Congo",
+   "Democratic Republic of the Congo"
+  ],
+  "capital": "Kinshasa",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 0,
+  "lon": 25,
+  "areaKm2": 2344858,
+  "flag": "🇨🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "AO",
+   "BI",
+   "CF",
+   "CG",
+   "RW",
+   "SS",
+   "TZ",
+   "UG",
+   "ZM"
+  ]
+ },
+ {
+  "code": "CG",
+  "name": "Congo",
+  "official": "Republic of the Congo",
+  "aliases": [
+   "Congo",
+   "Congo-Brazzaville",
+   "Republic of the Congo"
+  ],
+  "capital": "Brazzaville",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": -1,
+  "lon": 15,
+  "areaKm2": 342000,
+  "flag": "🇨🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "AO",
+   "CM",
+   "CF",
+   "CD",
+   "GA"
+  ]
+ },
+ {
+  "code": "CO",
+  "name": "Colombia",
+  "official": "Republic of Colombia",
+  "aliases": [
+   "Colombia",
+   "Republic of Colombia",
+   "República de Colombia"
+  ],
+  "capital": "Bogotá",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": 4,
+  "lon": -72,
+  "areaKm2": 1141748,
+  "flag": "🇨🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "BR",
+   "EC",
+   "PA",
+   "PE",
+   "VE"
+  ]
+ },
+ {
+  "code": "KM",
+  "name": "Comoros",
+  "official": "Union of the Comoros",
+  "aliases": [
+   "Comoros",
+   "Udzima wa Komori",
+   "Union des Comores",
+   "Union of the Comoros",
+   "al-Ittiḥād al-Qumurī"
+  ],
+  "capital": "Moroni",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -12.16666666,
+  "lon": 44.25,
+  "areaKm2": 1862,
+  "flag": "🇰🇲",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "CV",
+  "name": "Cape Verde",
+  "official": "Republic of Cabo Verde",
+  "aliases": [
+   "Cape Verde",
+   "Republic of Cabo Verde",
+   "República de Cabo Verde"
+  ],
+  "capital": "Praia",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 16,
+  "lon": -24,
+  "areaKm2": 4033,
+  "flag": "🇨🇻",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "CR",
+  "name": "Costa Rica",
+  "official": "Republic of Costa Rica",
+  "aliases": [
+   "Costa Rica",
+   "Republic of Costa Rica",
+   "República de Costa Rica"
+  ],
+  "capital": "San José",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 10,
+  "lon": -84,
+  "areaKm2": 51100,
+  "flag": "🇨🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "NI",
+   "PA"
+  ]
+ },
+ {
+  "code": "CU",
+  "name": "Cuba",
+  "official": "Republic of Cuba",
+  "aliases": [
+   "Cuba",
+   "Republic of Cuba",
+   "República de Cuba"
+  ],
+  "capital": "Havana",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 21.5,
+  "lon": -80,
+  "areaKm2": 109884,
+  "flag": "🇨🇺",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "CY",
+  "name": "Cyprus",
+  "official": "Republic of Cyprus",
+  "aliases": [
+   "Cyprus",
+   "Kýpros",
+   "Kıbrıs",
+   "Kıbrıs Cumhuriyeti",
+   "Republic of Cyprus",
+   "Κυπριακή Δημοκρατία"
+  ],
+  "capital": "Nicosia",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 35,
+  "lon": 33,
+  "areaKm2": 9251,
+  "flag": "🇨🇾",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "CZ",
+  "name": "Czechia",
+  "official": "Czech Republic",
+  "aliases": [
+   "Czech Republic",
+   "Czechia",
+   "Česko",
+   "Česká republika"
+  ],
+  "capital": "Prague",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 49.75,
+  "lon": 15.5,
+  "areaKm2": 78865,
+  "flag": "🇨🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "DE",
+   "PL",
+   "SK"
+  ]
+ },
+ {
+  "code": "DE",
+  "name": "Germany",
+  "official": "Federal Republic of Germany",
+  "aliases": [
+   "Bundesrepublik Deutschland",
+   "Federal Republic of Germany",
+   "Germany"
+  ],
+  "capital": "Berlin",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 51,
+  "lon": 9,
+  "areaKm2": 357114,
+  "flag": "🇩🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "BE",
+   "CZ",
+   "DK",
+   "FR",
+   "LU",
+   "NL",
+   "PL",
+   "CH"
+  ]
+ },
+ {
+  "code": "DJ",
+  "name": "Djibouti",
+  "official": "Republic of Djibouti",
+  "aliases": [
+   "Djibouti",
+   "Gabuuti",
+   "Gabuutih Ummuuno",
+   "Jabuuti",
+   "Jamhuuriyadda Jabuuti",
+   "Republic of Djibouti",
+   "République de Djibouti"
+  ],
+  "capital": "Djibouti",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 11.5,
+  "lon": 43,
+  "areaKm2": 23200,
+  "flag": "🇩🇯",
+  "inPuzzlePool": true,
+  "borders": [
+   "ER",
+   "ET",
+   "SO"
+  ]
+ },
+ {
+  "code": "DM",
+  "name": "Dominica",
+  "official": "Commonwealth of Dominica",
+  "aliases": [
+   "Commonwealth of Dominica",
+   "Dominica",
+   "Dominique",
+   "Wai‘tu kubuli"
+  ],
+  "capital": "Roseau",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 15.41666666,
+  "lon": -61.33333333,
+  "areaKm2": 751,
+  "flag": "🇩🇲",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "DK",
+  "name": "Denmark",
+  "official": "Kingdom of Denmark",
+  "aliases": [
+   "Danmark",
+   "Denmark",
+   "Kingdom of Denmark",
+   "Kongeriget Danmark"
+  ],
+  "capital": "Copenhagen",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 56,
+  "lon": 10,
+  "areaKm2": 43094,
+  "flag": "🇩🇰",
+  "inPuzzlePool": true,
+  "borders": [
+   "DE"
+  ]
+ },
+ {
+  "code": "DO",
+  "name": "Dominican Republic",
+  "official": "Dominican Republic",
+  "aliases": [
+   "Dominican Republic"
+  ],
+  "capital": "Santo Domingo",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 19,
+  "lon": -70.66666666,
+  "areaKm2": 48671,
+  "flag": "🇩🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "HT"
+  ]
+ },
+ {
+  "code": "DZ",
+  "name": "Algeria",
+  "official": "People's Democratic Republic of Algeria",
+  "aliases": [
+   "Algeria",
+   "Algérie",
+   "Dzayer",
+   "People's Democratic Republic of Algeria"
+  ],
+  "capital": "Algiers",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 28,
+  "lon": 3,
+  "areaKm2": 2381741,
+  "flag": "🇩🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "TN",
+   "LY",
+   "NE",
+   "EH",
+   "MR",
+   "ML",
+   "MA"
+  ]
+ },
+ {
+  "code": "EC",
+  "name": "Ecuador",
+  "official": "Republic of Ecuador",
+  "aliases": [
+   "Ecuador",
+   "Republic of Ecuador",
+   "República del Ecuador"
+  ],
+  "capital": "Quito",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -2,
+  "lon": -77.5,
+  "areaKm2": 276841,
+  "flag": "🇪🇨",
+  "inPuzzlePool": true,
+  "borders": [
+   "CO",
+   "PE"
+  ]
+ },
+ {
+  "code": "EG",
+  "name": "Egypt",
+  "official": "Arab Republic of Egypt",
+  "aliases": [
+   "Arab Republic of Egypt",
+   "Egypt"
+  ],
+  "capital": "Cairo",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 27,
+  "lon": 30,
+  "areaKm2": 1002450,
+  "flag": "🇪🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "IL",
+   "LY",
+   "PS",
+   "SD"
+  ]
+ },
+ {
+  "code": "ER",
+  "name": "Eritrea",
+  "official": "State of Eritrea",
+  "aliases": [
+   "Dawlat Iritriyá",
+   "Eritrea",
+   "Iritriyā",
+   "State of Eritrea",
+   "ʾErtrā",
+   "ሃገረ ኤርትራ"
+  ],
+  "capital": "Asmara",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 15,
+  "lon": 39,
+  "areaKm2": 117600,
+  "flag": "🇪🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "DJ",
+   "ET",
+   "SD"
+  ]
+ },
+ {
+  "code": "ES",
+  "name": "Spain",
+  "official": "Kingdom of Spain",
+  "aliases": [
+   "Kingdom of Spain",
+   "Reino de España",
+   "Spain"
+  ],
+  "capital": "Madrid",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 40,
+  "lon": -4,
+  "areaKm2": 505992,
+  "flag": "🇪🇸",
+  "inPuzzlePool": true,
+  "borders": [
+   "AD",
+   "FR",
+   "GI",
+   "PT",
+   "MA"
+  ]
+ },
+ {
+  "code": "EE",
+  "name": "Estonia",
+  "official": "Republic of Estonia",
+  "aliases": [
+   "Eesti",
+   "Eesti Vabariik",
+   "Estonia",
+   "Republic of Estonia"
+  ],
+  "capital": "Tallinn",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 59,
+  "lon": 26,
+  "areaKm2": 45227,
+  "flag": "🇪🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "LV",
+   "RU"
+  ]
+ },
+ {
+  "code": "ET",
+  "name": "Ethiopia",
+  "official": "Federal Democratic Republic of Ethiopia",
+  "aliases": [
+   "Ethiopia",
+   "Federal Democratic Republic of Ethiopia",
+   "ʾĪtyōṗṗyā",
+   "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+  ],
+  "capital": "Addis Ababa",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 8,
+  "lon": 38,
+  "areaKm2": 1104300,
+  "flag": "🇪🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "DJ",
+   "ER",
+   "KE",
+   "SO",
+   "SS",
+   "SD"
+  ]
+ },
+ {
+  "code": "FI",
+  "name": "Finland",
+  "official": "Republic of Finland",
+  "aliases": [
+   "Finland",
+   "Republic of Finland",
+   "Republiken Finland",
+   "Suomen tasavalta",
+   "Suomi"
+  ],
+  "capital": "Helsinki",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 64,
+  "lon": 26,
+  "areaKm2": 338424,
+  "flag": "🇫🇮",
+  "inPuzzlePool": true,
+  "borders": [
+   "NO",
+   "SE",
+   "RU"
+  ]
+ },
+ {
+  "code": "FJ",
+  "name": "Fiji",
+  "official": "Republic of Fiji",
+  "aliases": [
+   "Fiji",
+   "Fijī Gaṇarājya",
+   "Matanitu ko Viti",
+   "Republic of Fiji",
+   "Viti"
+  ],
+  "capital": "Suva",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "lat": -18,
+  "lon": 175,
+  "areaKm2": 18272,
+  "flag": "🇫🇯",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "FR",
+  "name": "France",
+  "official": "French Republic",
+  "aliases": [
+   "France",
+   "French Republic",
+   "République française"
+  ],
+  "capital": "Paris",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 46,
+  "lon": 2,
+  "areaKm2": 551695,
+  "flag": "🇫🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "AD",
+   "BE",
+   "DE",
+   "IT",
+   "LU",
+   "MC",
+   "ES",
+   "CH"
+  ]
+ },
+ {
+  "code": "FM",
+  "name": "Micronesia",
+  "official": "Federated States of Micronesia",
+  "aliases": [
+   "Federated States of Micronesia",
+   "Micronesia",
+   "Micronesia, Federated States of"
+  ],
+  "capital": "Palikir",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "lat": 6.91666666,
+  "lon": 158.25,
+  "areaKm2": 702,
+  "flag": "🇫🇲",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "GA",
+  "name": "Gabon",
+  "official": "Gabonese Republic",
+  "aliases": [
+   "Gabon",
+   "Gabonese Republic",
+   "République Gabonaise"
+  ],
+  "capital": "Libreville",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": -1,
+  "lon": 11.75,
+  "areaKm2": 267668,
+  "flag": "🇬🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "CM",
+   "CG",
+   "GQ"
+  ]
+ },
+ {
+  "code": "GB",
+  "name": "United Kingdom",
+  "official": "United Kingdom of Great Britain and Northern Ireland",
+  "aliases": [
+   "Great Britain",
+   "United Kingdom",
+   "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "capital": "London",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 54,
+  "lon": -2,
+  "areaKm2": 242900,
+  "flag": "🇬🇧",
+  "inPuzzlePool": true,
+  "borders": [
+   "IE"
+  ]
+ },
+ {
+  "code": "GE",
+  "name": "Georgia",
+  "official": "Georgia",
+  "aliases": [
+   "Georgia",
+   "Sakartvelo"
+  ],
+  "capital": "Tbilisi",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 42,
+  "lon": 43.5,
+  "areaKm2": 69700,
+  "flag": "🇬🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "AM",
+   "AZ",
+   "RU",
+   "TR"
+  ]
+ },
+ {
+  "code": "GH",
+  "name": "Ghana",
+  "official": "Republic of Ghana",
+  "aliases": [
+   "Ghana",
+   "Republic of Ghana"
+  ],
+  "capital": "Accra",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 8,
+  "lon": -2,
+  "areaKm2": 238533,
+  "flag": "🇬🇭",
+  "inPuzzlePool": true,
+  "borders": [
+   "BF",
+   "CI",
+   "TG"
+  ]
+ },
+ {
+  "code": "GN",
+  "name": "Guinea",
+  "official": "Republic of Guinea",
+  "aliases": [
+   "Guinea",
+   "Republic of Guinea",
+   "République de Guinée"
+  ],
+  "capital": "Conakry",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 11,
+  "lon": -10,
+  "areaKm2": 245857,
+  "flag": "🇬🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "CI",
+   "GW",
+   "LR",
+   "ML",
+   "SN",
+   "SL"
+  ]
+ },
+ {
+  "code": "GM",
+  "name": "Gambia",
+  "official": "Republic of the Gambia",
+  "aliases": [
+   "Gambia",
+   "Republic of the Gambia"
+  ],
+  "capital": "Banjul",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 13.46666666,
+  "lon": -16.56666666,
+  "areaKm2": 10689,
+  "flag": "🇬🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "SN"
+  ]
+ },
+ {
+  "code": "GW",
+  "name": "Guinea-Bissau",
+  "official": "Republic of Guinea-Bissau",
+  "aliases": [
+   "Guinea-Bissau",
+   "Republic of Guinea-Bissau",
+   "República da Guiné-Bissau"
+  ],
+  "capital": "Bissau",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 12,
+  "lon": -15,
+  "areaKm2": 36125,
+  "flag": "🇬🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "GN",
+   "SN"
+  ]
+ },
+ {
+  "code": "GQ",
+  "name": "Equatorial Guinea",
+  "official": "Republic of Equatorial Guinea",
+  "aliases": [
+   "Equatorial Guinea",
+   "Republic of Equatorial Guinea",
+   "República da Guiné Equatorial",
+   "República de Guinea Ecuatorial",
+   "République de Guinée équatoriale"
+  ],
+  "capital": "Malabo",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 2,
+  "lon": 10,
+  "areaKm2": 28051,
+  "flag": "🇬🇶",
+  "inPuzzlePool": true,
+  "borders": [
+   "CM",
+   "GA"
+  ]
+ },
+ {
+  "code": "GR",
+  "name": "Greece",
+  "official": "Hellenic Republic",
+  "aliases": [
+   "Elláda",
+   "Greece",
+   "Hellenic Republic",
+   "Ελληνική Δημοκρατία"
+  ],
+  "capital": "Athens",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 39,
+  "lon": 22,
+  "areaKm2": 131990,
+  "flag": "🇬🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "AL",
+   "BG",
+   "TR",
+   "MK"
+  ]
+ },
+ {
+  "code": "GD",
+  "name": "Grenada",
+  "official": "Grenada",
+  "aliases": [
+   "Grenada"
+  ],
+  "capital": "St. George's",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 12.11666666,
+  "lon": -61.66666666,
+  "areaKm2": 344,
+  "flag": "🇬🇩",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "GT",
+  "name": "Guatemala",
+  "official": "Republic of Guatemala",
+  "aliases": [
+   "Guatemala",
+   "Republic of Guatemala"
+  ],
+  "capital": "Guatemala City",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 15.5,
+  "lon": -90.25,
+  "areaKm2": 108889,
+  "flag": "🇬🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "BZ",
+   "SV",
+   "HN",
+   "MX"
+  ]
+ },
+ {
+  "code": "GY",
+  "name": "Guyana",
+  "official": "Co-operative Republic of Guyana",
+  "aliases": [
+   "Co-operative Republic of Guyana",
+   "Guyana"
+  ],
+  "capital": "Georgetown",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": 5,
+  "lon": -59,
+  "areaKm2": 214969,
+  "flag": "🇬🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "BR",
+   "SR",
+   "VE"
+  ]
+ },
+ {
+  "code": "HN",
+  "name": "Honduras",
+  "official": "Republic of Honduras",
+  "aliases": [
+   "Honduras",
+   "Republic of Honduras",
+   "República de Honduras"
+  ],
+  "capital": "Tegucigalpa",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 15,
+  "lon": -86.5,
+  "areaKm2": 112492,
+  "flag": "🇭🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "GT",
+   "SV",
+   "NI"
+  ]
+ },
+ {
+  "code": "HR",
+  "name": "Croatia",
+  "official": "Republic of Croatia",
+  "aliases": [
+   "Croatia",
+   "Hrvatska",
+   "Republic of Croatia",
+   "Republika Hrvatska"
+  ],
+  "capital": "Zagreb",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 45.16666666,
+  "lon": 15.5,
+  "areaKm2": 56594,
+  "flag": "🇭🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "BA",
+   "HU",
+   "ME",
+   "RS",
+   "SI"
+  ]
+ },
+ {
+  "code": "HT",
+  "name": "Haiti",
+  "official": "Republic of Haiti",
+  "aliases": [
+   "Haiti",
+   "Repiblik Ayiti",
+   "Republic of Haiti",
+   "République d'Haïti"
+  ],
+  "capital": "Port-au-Prince",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 19,
+  "lon": -72.41666666,
+  "areaKm2": 27750,
+  "flag": "🇭🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "DO"
+  ]
+ },
+ {
+  "code": "HU",
+  "name": "Hungary",
+  "official": "Hungary",
+  "aliases": [
+   "Hungary"
+  ],
+  "capital": "Budapest",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 47,
+  "lon": 20,
+  "areaKm2": 93028,
+  "flag": "🇭🇺",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "HR",
+   "RO",
+   "RS",
+   "SK",
+   "SI",
+   "UA"
+  ]
+ },
+ {
+  "code": "ID",
+  "name": "Indonesia",
+  "official": "Republic of Indonesia",
+  "aliases": [
+   "Indonesia",
+   "Republic of Indonesia",
+   "Republik Indonesia"
+  ],
+  "capital": "Jakarta",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": -5,
+  "lon": 120,
+  "areaKm2": 1904569,
+  "flag": "🇮🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "TL",
+   "MY",
+   "PG"
+  ]
+ },
+ {
+  "code": "IN",
+  "name": "India",
+  "official": "Republic of India",
+  "aliases": [
+   "Bharat Ganrajya",
+   "Bhārat",
+   "India",
+   "Republic of India",
+   "இந்தியா"
+  ],
+  "capital": "New Delhi",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 20,
+  "lon": 77,
+  "areaKm2": 3287590,
+  "flag": "🇮🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "BD",
+   "BT",
+   "MM",
+   "CN",
+   "NP",
+   "PK"
+  ]
+ },
+ {
+  "code": "IE",
+  "name": "Ireland",
+  "official": "Republic of Ireland",
+  "aliases": [
+   "Ireland",
+   "Poblacht na hÉireann",
+   "Republic of Ireland",
+   "Éire"
+  ],
+  "capital": "Dublin",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 53,
+  "lon": -8,
+  "areaKm2": 70273,
+  "flag": "🇮🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "GB"
+  ]
+ },
+ {
+  "code": "IR",
+  "name": "Iran",
+  "official": "Islamic Republic of Iran",
+  "aliases": [
+   "Iran",
+   "Iran, Islamic Republic of",
+   "Islamic Republic of Iran",
+   "Jomhuri-ye Eslāmi-ye Irān"
+  ],
+  "capital": "Tehran",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 32,
+  "lon": 53,
+  "areaKm2": 1648195,
+  "flag": "🇮🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "AM",
+   "AZ",
+   "IQ",
+   "PK",
+   "TR",
+   "TM"
+  ]
+ },
+ {
+  "code": "IQ",
+  "name": "Iraq",
+  "official": "Republic of Iraq",
+  "aliases": [
+   "Iraq",
+   "Jumhūriyyat al-‘Irāq",
+   "Republic of Iraq"
+  ],
+  "capital": "Baghdad",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 33,
+  "lon": 44,
+  "areaKm2": 438317,
+  "flag": "🇮🇶",
+  "inPuzzlePool": true,
+  "borders": [
+   "IR",
+   "JO",
+   "KW",
+   "SA",
+   "SY",
+   "TR"
+  ]
+ },
+ {
+  "code": "IS",
+  "name": "Iceland",
+  "official": "Iceland",
+  "aliases": [
+   "Iceland",
+   "Island",
+   "Lýðveldið Ísland",
+   "Republic of Iceland"
+  ],
+  "capital": "Reykjavik",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 65,
+  "lon": -18,
+  "areaKm2": 103000,
+  "flag": "🇮🇸",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "IL",
+  "name": "Israel",
+  "official": "State of Israel",
+  "aliases": [
+   "Israel",
+   "Medīnat Yisrā'el",
+   "State of Israel"
+  ],
+  "capital": "Jerusalem",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 31.47,
+  "lon": 35.13,
+  "areaKm2": 20770,
+  "flag": "🇮🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "EG",
+   "JO",
+   "LB",
+   "PS",
+   "SY"
+  ]
+ },
+ {
+  "code": "IT",
+  "name": "Italy",
+  "official": "Italian Republic",
+  "aliases": [
+   "Italian Republic",
+   "Italy",
+   "Repubblica italiana"
+  ],
+  "capital": "Rome",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 42.83333333,
+  "lon": 12.83333333,
+  "areaKm2": 301336,
+  "flag": "🇮🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "FR",
+   "SM",
+   "SI",
+   "CH",
+   "VA"
+  ]
+ },
+ {
+  "code": "JM",
+  "name": "Jamaica",
+  "official": "Jamaica",
+  "aliases": [
+   "Jamaica"
+  ],
+  "capital": "Kingston",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 18.25,
+  "lon": -77.5,
+  "areaKm2": 10991,
+  "flag": "🇯🇲",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "JO",
+  "name": "Jordan",
+  "official": "Hashemite Kingdom of Jordan",
+  "aliases": [
+   "Hashemite Kingdom of Jordan",
+   "Jordan",
+   "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+  ],
+  "capital": "Amman",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 31,
+  "lon": 36,
+  "areaKm2": 89342,
+  "flag": "🇯🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "IQ",
+   "IL",
+   "PS",
+   "SA",
+   "SY"
+  ]
+ },
+ {
+  "code": "JP",
+  "name": "Japan",
+  "official": "Japan",
+  "aliases": [
+   "Japan",
+   "Nihon",
+   "Nippon"
+  ],
+  "capital": "Tokyo",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "lat": 36,
+  "lon": 138,
+  "areaKm2": 377930,
+  "flag": "🇯🇵",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "KZ",
+  "name": "Kazakhstan",
+  "official": "Republic of Kazakhstan",
+  "aliases": [
+   "Kazakhstan",
+   "Qazaqstan",
+   "Qazaqstan Respublïkası",
+   "Republic of Kazakhstan",
+   "Respublika Kazakhstan",
+   "Казахстан",
+   "Республика Казахстан",
+   "Қазақстан Республикасы"
+  ],
+  "capital": "Astana",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "lat": 48,
+  "lon": 68,
+  "areaKm2": 2724900,
+  "flag": "🇰🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "KG",
+   "RU",
+   "TM",
+   "UZ"
+  ]
+ },
+ {
+  "code": "KE",
+  "name": "Kenya",
+  "official": "Republic of Kenya",
+  "aliases": [
+   "Jamhuri ya Kenya",
+   "Kenya",
+   "Republic of Kenya"
+  ],
+  "capital": "Nairobi",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 1,
+  "lon": 38,
+  "areaKm2": 580367,
+  "flag": "🇰🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "ET",
+   "SO",
+   "SS",
+   "TZ",
+   "UG"
+  ]
+ },
+ {
+  "code": "KG",
+  "name": "Kyrgyzstan",
+  "official": "Kyrgyz Republic",
+  "aliases": [
+   "Kyrgyz Republic",
+   "Kyrgyz Respublikasy",
+   "Kyrgyzstan",
+   "Киргизия",
+   "Кыргыз Республикасы"
+  ],
+  "capital": "Bishkek",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "lat": 41,
+  "lon": 75,
+  "areaKm2": 199951,
+  "flag": "🇰🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "KZ",
+   "TJ",
+   "UZ"
+  ]
+ },
+ {
+  "code": "KH",
+  "name": "Cambodia",
+  "official": "Kingdom of Cambodia",
+  "aliases": [
+   "Cambodia",
+   "Kingdom of Cambodia"
+  ],
+  "capital": "Phnom Penh",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 13,
+  "lon": 105,
+  "areaKm2": 181035,
+  "flag": "🇰🇭",
+  "inPuzzlePool": true,
+  "borders": [
+   "LA",
+   "TH",
+   "VN"
+  ]
+ },
+ {
+  "code": "KI",
+  "name": "Kiribati",
+  "official": "Independent and Sovereign Republic of Kiribati",
+  "aliases": [
+   "Independent and Sovereign Republic of Kiribati",
+   "Kiribati",
+   "Republic of Kiribati",
+   "Ribaberiki Kiribati"
+  ],
+  "capital": "South Tarawa",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "lat": 1.41666666,
+  "lon": 173,
+  "areaKm2": 811,
+  "flag": "🇰🇮",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "KN",
+  "name": "Saint Kitts and Nevis",
+  "official": "Federation of Saint Christopher and Nevis",
+  "aliases": [
+   "Federation of Saint Christopher and Nevis",
+   "Saint Kitts and Nevis"
+  ],
+  "capital": "Basseterre",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 17.33333333,
+  "lon": -62.75,
+  "areaKm2": 261,
+  "flag": "🇰🇳",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "KR",
+  "name": "South Korea",
+  "official": "Republic of Korea",
+  "aliases": [
+   "Korea, Republic of",
+   "Republic of Korea",
+   "South Korea"
+  ],
+  "capital": "Seoul",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "lat": 37,
+  "lon": 127.5,
+  "areaKm2": 100210,
+  "flag": "🇰🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "KP"
+  ]
+ },
+ {
+  "code": "KW",
+  "name": "Kuwait",
+  "official": "State of Kuwait",
+  "aliases": [
+   "Dawlat al-Kuwait",
+   "Kuwait",
+   "State of Kuwait"
+  ],
+  "capital": "Kuwait City",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 29.5,
+  "lon": 45.75,
+  "areaKm2": 17818,
+  "flag": "🇰🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "IQ",
+   "SA"
+  ]
+ },
+ {
+  "code": "LA",
+  "name": "Laos",
+  "official": "Lao People's Democratic Republic",
+  "aliases": [
+   "Lao People's Democratic Republic",
+   "Laos",
+   "Sathalanalat Paxathipatai Paxaxon Lao"
+  ],
+  "capital": "Vientiane",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 18,
+  "lon": 105,
+  "areaKm2": 236800,
+  "flag": "🇱🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "MM",
+   "KH",
+   "CN",
+   "TH",
+   "VN"
+  ]
+ },
+ {
+  "code": "LB",
+  "name": "Lebanon",
+  "official": "Lebanese Republic",
+  "aliases": [
+   "Al-Jumhūrīyah Al-Libnānīyah",
+   "Lebanese Republic",
+   "Lebanon"
+  ],
+  "capital": "Beirut",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 33.83333333,
+  "lon": 35.83333333,
+  "areaKm2": 10452,
+  "flag": "🇱🇧",
+  "inPuzzlePool": true,
+  "borders": [
+   "IL",
+   "SY"
+  ]
+ },
+ {
+  "code": "LR",
+  "name": "Liberia",
+  "official": "Republic of Liberia",
+  "aliases": [
+   "Liberia",
+   "Republic of Liberia"
+  ],
+  "capital": "Monrovia",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 6.5,
+  "lon": -9.5,
+  "areaKm2": 111369,
+  "flag": "🇱🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "GN",
+   "CI",
+   "SL"
+  ]
+ },
+ {
+  "code": "LY",
+  "name": "Libya",
+  "official": "State of Libya",
+  "aliases": [
+   "Dawlat Libya",
+   "Libya",
+   "State of Libya"
+  ],
+  "capital": "Tripoli",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 25,
+  "lon": 17,
+  "areaKm2": 1759540,
+  "flag": "🇱🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "TD",
+   "EG",
+   "NE",
+   "SD",
+   "TN"
+  ]
+ },
+ {
+  "code": "LC",
+  "name": "Saint Lucia",
+  "official": "Saint Lucia",
+  "aliases": [
+   "Saint Lucia"
+  ],
+  "capital": "Castries",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 13.88333333,
+  "lon": -60.96666666,
+  "areaKm2": 616,
+  "flag": "🇱🇨",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "LI",
+  "name": "Liechtenstein",
+  "official": "Principality of Liechtenstein",
+  "aliases": [
+   "Fürstentum Liechtenstein",
+   "Liechtenstein",
+   "Principality of Liechtenstein"
+  ],
+  "capital": "Vaduz",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 47.26666666,
+  "lon": 9.53333333,
+  "areaKm2": 160,
+  "flag": "🇱🇮",
+  "inPuzzlePool": false,
+  "borders": [
+   "AT",
+   "CH"
+  ]
+ },
+ {
+  "code": "LK",
+  "name": "Sri Lanka",
+  "official": "Democratic Socialist Republic of Sri Lanka",
+  "aliases": [
+   "Democratic Socialist Republic of Sri Lanka",
+   "Sri Lanka",
+   "ilaṅkai"
+  ],
+  "capital": "Colombo",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 7,
+  "lon": 81,
+  "areaKm2": 65610,
+  "flag": "🇱🇰",
+  "inPuzzlePool": true,
+  "borders": [
+   "IN"
+  ]
+ },
+ {
+  "code": "LS",
+  "name": "Lesotho",
+  "official": "Kingdom of Lesotho",
+  "aliases": [
+   "Kingdom of Lesotho",
+   "Lesotho",
+   "Muso oa Lesotho"
+  ],
+  "capital": "Maseru",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "lat": -29.5,
+  "lon": 28.5,
+  "areaKm2": 30355,
+  "flag": "🇱🇸",
+  "inPuzzlePool": true,
+  "borders": [
+   "ZA"
+  ]
+ },
+ {
+  "code": "LT",
+  "name": "Lithuania",
+  "official": "Republic of Lithuania",
+  "aliases": [
+   "Lietuvos Respublika",
+   "Lithuania",
+   "Republic of Lithuania"
+  ],
+  "capital": "Vilnius",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 56,
+  "lon": 24,
+  "areaKm2": 65300,
+  "flag": "🇱🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "BY",
+   "LV",
+   "PL",
+   "RU"
+  ]
+ },
+ {
+  "code": "LU",
+  "name": "Luxembourg",
+  "official": "Grand Duchy of Luxembourg",
+  "aliases": [
+   "Grand Duchy of Luxembourg",
+   "Grand-Duché de Luxembourg",
+   "Groussherzogtum Lëtzebuerg",
+   "Großherzogtum Luxemburg",
+   "Luxembourg"
+  ],
+  "capital": "Luxembourg",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 49.75,
+  "lon": 6.16666666,
+  "areaKm2": 2586,
+  "flag": "🇱🇺",
+  "inPuzzlePool": false,
+  "borders": [
+   "BE",
+   "FR",
+   "DE"
+  ]
+ },
+ {
+  "code": "LV",
+  "name": "Latvia",
+  "official": "Republic of Latvia",
+  "aliases": [
+   "Latvia",
+   "Latvijas Republika",
+   "Republic of Latvia"
+  ],
+  "capital": "Riga",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 57,
+  "lon": 25,
+  "areaKm2": 64559,
+  "flag": "🇱🇻",
+  "inPuzzlePool": true,
+  "borders": [
+   "BY",
+   "EE",
+   "LT",
+   "RU"
+  ]
+ },
+ {
+  "code": "MA",
+  "name": "Morocco",
+  "official": "Kingdom of Morocco",
+  "aliases": [
+   "Al-Mamlakah al-Maġribiyah",
+   "Kingdom of Morocco",
+   "Morocco"
+  ],
+  "capital": "Rabat",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 32,
+  "lon": -5,
+  "areaKm2": 446550,
+  "flag": "🇲🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "EH",
+   "ES"
+  ]
+ },
+ {
+  "code": "MC",
+  "name": "Monaco",
+  "official": "Principality of Monaco",
+  "aliases": [
+   "Monaco",
+   "Principality of Monaco",
+   "Principauté de Monaco"
+  ],
+  "capital": "Monaco",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 43.73333333,
+  "lon": 7.4,
+  "areaKm2": 2.02,
+  "flag": "🇲🇨",
+  "inPuzzlePool": false,
+  "borders": [
+   "FR"
+  ]
+ },
+ {
+  "code": "MD",
+  "name": "Moldova",
+  "official": "Republic of Moldova",
+  "aliases": [
+   "Moldova",
+   "Moldova, Republic of",
+   "Republic of Moldova",
+   "Republica Moldova"
+  ],
+  "capital": "Chișinău",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "lat": 47,
+  "lon": 29,
+  "areaKm2": 33846,
+  "flag": "🇲🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "RO",
+   "UA"
+  ]
+ },
+ {
+  "code": "MG",
+  "name": "Madagascar",
+  "official": "Republic of Madagascar",
+  "aliases": [
+   "Madagascar",
+   "Repoblikan'i Madagasikara",
+   "Republic of Madagascar",
+   "République de Madagascar"
+  ],
+  "capital": "Antananarivo",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -20,
+  "lon": 47,
+  "areaKm2": 587041,
+  "flag": "🇲🇬",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "MV",
+  "name": "Maldives",
+  "official": "Republic of the Maldives",
+  "aliases": [
+   "Dhivehi Raajjeyge Jumhooriyya",
+   "Maldive Islands",
+   "Maldives",
+   "Republic of the Maldives"
+  ],
+  "capital": "Malé",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 3.25,
+  "lon": 73,
+  "areaKm2": 300,
+  "flag": "🇲🇻",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "MX",
+  "name": "Mexico",
+  "official": "United Mexican States",
+  "aliases": [
+   "Estados Unidos Mexicanos",
+   "Mexicanos",
+   "Mexico",
+   "United Mexican States"
+  ],
+  "capital": "Mexico City",
+  "region": "Americas",
+  "subregion": "North America",
+  "lat": 23,
+  "lon": -102,
+  "areaKm2": 1964375,
+  "flag": "🇲🇽",
+  "inPuzzlePool": true,
+  "borders": [
+   "BZ",
+   "GT",
+   "US"
+  ]
+ },
+ {
+  "code": "MH",
+  "name": "Marshall Islands",
+  "official": "Republic of the Marshall Islands",
+  "aliases": [
+   "Aolepān Aorōkin M̧ajeļ",
+   "Marshall Islands",
+   "Republic of the Marshall Islands"
+  ],
+  "capital": "Majuro",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "lat": 9,
+  "lon": 168,
+  "areaKm2": 181,
+  "flag": "🇲🇭",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "MK",
+  "name": "North Macedonia",
+  "official": "Republic of North Macedonia",
+  "aliases": [
+   "Macedonia",
+   "Macedonia, The Former Yugoslav Republic of",
+   "North Macedonia",
+   "Republic of North Macedonia",
+   "The former Yugoslav Republic of Macedonia",
+   "Република Северна Македонија"
+  ],
+  "capital": "Skopje",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 41.83333333,
+  "lon": 22,
+  "areaKm2": 25713,
+  "flag": "🇲🇰",
+  "inPuzzlePool": true,
+  "borders": [
+   "AL",
+   "BG",
+   "GR",
+   "XK",
+   "RS"
+  ]
+ },
+ {
+  "code": "ML",
+  "name": "Mali",
+  "official": "Republic of Mali",
+  "aliases": [
+   "Mali",
+   "Republic of Mali",
+   "République du Mali"
+  ],
+  "capital": "Bamako",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 17,
+  "lon": -4,
+  "areaKm2": 1240192,
+  "flag": "🇲🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "BF",
+   "GN",
+   "CI",
+   "MR",
+   "NE",
+   "SN"
+  ]
+ },
+ {
+  "code": "MT",
+  "name": "Malta",
+  "official": "Republic of Malta",
+  "aliases": [
+   "Malta",
+   "Repubblika ta' Malta",
+   "Republic of Malta"
+  ],
+  "capital": "Valletta",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 35.83333333,
+  "lon": 14.58333333,
+  "areaKm2": 316,
+  "flag": "🇲🇹",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "MM",
+  "name": "Myanmar",
+  "official": "Republic of the Union of Myanmar",
+  "aliases": [
+   "Burma",
+   "Myanmar",
+   "Pyidaunzu Thanmăda Myăma Nainngandaw",
+   "Republic of the Union of Myanmar"
+  ],
+  "capital": "Naypyidaw",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 22,
+  "lon": 98,
+  "areaKm2": 676578,
+  "flag": "🇲🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "BD",
+   "CN",
+   "IN",
+   "LA",
+   "TH"
+  ]
+ },
+ {
+  "code": "ME",
+  "name": "Montenegro",
+  "official": "Montenegro",
+  "aliases": [
+   "Crna Gora",
+   "Montenegro"
+  ],
+  "capital": "Podgorica",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 42.5,
+  "lon": 19.3,
+  "areaKm2": 13812,
+  "flag": "🇲🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "AL",
+   "BA",
+   "HR",
+   "XK",
+   "RS"
+  ]
+ },
+ {
+  "code": "MN",
+  "name": "Mongolia",
+  "official": "Mongolia",
+  "aliases": [
+   "Mongolia"
+  ],
+  "capital": "Ulan Bator",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "lat": 46,
+  "lon": 105,
+  "areaKm2": 1564110,
+  "flag": "🇲🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "RU"
+  ]
+ },
+ {
+  "code": "MZ",
+  "name": "Mozambique",
+  "official": "Republic of Mozambique",
+  "aliases": [
+   "Mozambique",
+   "Republic of Mozambique",
+   "República de Moçambique"
+  ],
+  "capital": "Maputo",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -18.25,
+  "lon": 35,
+  "areaKm2": 801590,
+  "flag": "🇲🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "MW",
+   "ZA",
+   "SZ",
+   "TZ",
+   "ZM",
+   "ZW"
+  ]
+ },
+ {
+  "code": "MR",
+  "name": "Mauritania",
+  "official": "Islamic Republic of Mauritania",
+  "aliases": [
+   "Islamic Republic of Mauritania",
+   "Mauritania",
+   "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+  ],
+  "capital": "Nouakchott",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 20,
+  "lon": -12,
+  "areaKm2": 1030700,
+  "flag": "🇲🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "ML",
+   "SN",
+   "EH"
+  ]
+ },
+ {
+  "code": "MU",
+  "name": "Mauritius",
+  "official": "Republic of Mauritius",
+  "aliases": [
+   "Mauritius",
+   "Republic of Mauritius",
+   "République de Maurice"
+  ],
+  "capital": "Port Louis",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -20.28333333,
+  "lon": 57.55,
+  "areaKm2": 2040,
+  "flag": "🇲🇺",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "MW",
+  "name": "Malawi",
+  "official": "Republic of Malawi",
+  "aliases": [
+   "Malawi",
+   "Republic of Malawi"
+  ],
+  "capital": "Lilongwe",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -13.5,
+  "lon": 34,
+  "areaKm2": 118484,
+  "flag": "🇲🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "MZ",
+   "TZ",
+   "ZM"
+  ]
+ },
+ {
+  "code": "MY",
+  "name": "Malaysia",
+  "official": "Malaysia",
+  "aliases": [
+   "Malaysia"
+  ],
+  "capital": "Kuala Lumpur",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 2.5,
+  "lon": 112.5,
+  "areaKm2": 330803,
+  "flag": "🇲🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "BN",
+   "ID",
+   "TH"
+  ]
+ },
+ {
+  "code": "NA",
+  "name": "Namibia",
+  "official": "Republic of Namibia",
+  "aliases": [
+   "Namibia",
+   "Namibië",
+   "Republic of Namibia"
+  ],
+  "capital": "Windhoek",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "lat": -22,
+  "lon": 17,
+  "areaKm2": 825615,
+  "flag": "🇳🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "AO",
+   "BW",
+   "ZA",
+   "ZM"
+  ]
+ },
+ {
+  "code": "NE",
+  "name": "Niger",
+  "official": "Republic of Niger",
+  "aliases": [
+   "Niger",
+   "Nijar",
+   "Republic of Niger"
+  ],
+  "capital": "Niamey",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 16,
+  "lon": 8,
+  "areaKm2": 1267000,
+  "flag": "🇳🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "BJ",
+   "BF",
+   "TD",
+   "LY",
+   "ML",
+   "NG"
+  ]
+ },
+ {
+  "code": "NG",
+  "name": "Nigeria",
+  "official": "Federal Republic of Nigeria",
+  "aliases": [
+   "Federal Republic of Nigeria",
+   "Naíjíríà",
+   "Nigeria",
+   "Nijeriya"
+  ],
+  "capital": "Abuja",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 10,
+  "lon": 8,
+  "areaKm2": 923768,
+  "flag": "🇳🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "BJ",
+   "CM",
+   "TD",
+   "NE"
+  ]
+ },
+ {
+  "code": "NI",
+  "name": "Nicaragua",
+  "official": "Republic of Nicaragua",
+  "aliases": [
+   "Nicaragua",
+   "Republic of Nicaragua",
+   "República de Nicaragua"
+  ],
+  "capital": "Managua",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 13,
+  "lon": -85,
+  "areaKm2": 130373,
+  "flag": "🇳🇮",
+  "inPuzzlePool": true,
+  "borders": [
+   "CR",
+   "HN"
+  ]
+ },
+ {
+  "code": "NL",
+  "name": "Netherlands",
+  "official": "Kingdom of the Netherlands",
+  "aliases": [
+   "Holland",
+   "Kingdom of the Netherlands",
+   "Nederland",
+   "Netherlands",
+   "The Netherlands"
+  ],
+  "capital": "Amsterdam",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "lat": 52.5,
+  "lon": 5.75,
+  "areaKm2": 41850,
+  "flag": "🇳🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "BE",
+   "DE"
+  ]
+ },
+ {
+  "code": "NO",
+  "name": "Norway",
+  "official": "Kingdom of Norway",
+  "aliases": [
+   "Kingdom of Norway",
+   "Kongeriket Noreg",
+   "Kongeriket Norge",
+   "Noreg",
+   "Norge",
+   "Norway"
+  ],
+  "capital": "Oslo",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 62,
+  "lon": 10,
+  "areaKm2": 323802,
+  "flag": "🇳🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "FI",
+   "SE",
+   "RU"
+  ]
+ },
+ {
+  "code": "NP",
+  "name": "Nepal",
+  "official": "Federal Democratic Republic of Nepal",
+  "aliases": [
+   "Federal Democratic Republic of Nepal",
+   "Loktāntrik Ganatantra Nepāl",
+   "Nepal"
+  ],
+  "capital": "Kathmandu",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 28,
+  "lon": 84,
+  "areaKm2": 147181,
+  "flag": "🇳🇵",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "IN"
+  ]
+ },
+ {
+  "code": "NR",
+  "name": "Nauru",
+  "official": "Republic of Nauru",
+  "aliases": [
+   "Naoero",
+   "Nauru",
+   "Pleasant Island",
+   "Republic of Nauru",
+   "Ripublik Naoero"
+  ],
+  "capital": "Yaren",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "lat": -0.53333333,
+  "lon": 166.91666666,
+  "areaKm2": 21,
+  "flag": "🇳🇷",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "NZ",
+  "name": "New Zealand",
+  "official": "New Zealand",
+  "aliases": [
+   "Aotearoa",
+   "New Zealand"
+  ],
+  "capital": "Wellington",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "lat": -41,
+  "lon": 174,
+  "areaKm2": 270467,
+  "flag": "🇳🇿",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "OM",
+  "name": "Oman",
+  "official": "Sultanate of Oman",
+  "aliases": [
+   "Oman",
+   "Salṭanat ʻUmān",
+   "Sultanate of Oman"
+  ],
+  "capital": "Muscat",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 21,
+  "lon": 57,
+  "areaKm2": 309500,
+  "flag": "🇴🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "SA",
+   "AE",
+   "YE"
+  ]
+ },
+ {
+  "code": "PK",
+  "name": "Pakistan",
+  "official": "Islamic Republic of Pakistan",
+  "aliases": [
+   "Islamic Republic of Pakistan",
+   "Islāmī Jumhūriya'eh Pākistān",
+   "Pakistan",
+   "Pākistān"
+  ],
+  "capital": "Islamabad",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "lat": 30,
+  "lon": 70,
+  "areaKm2": 881912,
+  "flag": "🇵🇰",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "CN",
+   "IN",
+   "IR"
+  ]
+ },
+ {
+  "code": "PA",
+  "name": "Panama",
+  "official": "Republic of Panama",
+  "aliases": [
+   "Panama",
+   "Republic of Panama",
+   "República de Panamá"
+  ],
+  "capital": "Panama City",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 9,
+  "lon": -80,
+  "areaKm2": 75417,
+  "flag": "🇵🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "CO",
+   "CR"
+  ]
+ },
+ {
+  "code": "PE",
+  "name": "Peru",
+  "official": "Republic of Peru",
+  "aliases": [
+   "Peru",
+   "Republic of Peru",
+   "República del Perú"
+  ],
+  "capital": "Lima",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -10,
+  "lon": -76,
+  "areaKm2": 1285216,
+  "flag": "🇵🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "BO",
+   "BR",
+   "CL",
+   "CO",
+   "EC"
+  ]
+ },
+ {
+  "code": "PH",
+  "name": "Philippines",
+  "official": "Republic of the Philippines",
+  "aliases": [
+   "Philippines",
+   "Republic of the Philippines",
+   "Repúblika ng Pilipinas"
+  ],
+  "capital": "Manila",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 13,
+  "lon": 122,
+  "areaKm2": 342353,
+  "flag": "🇵🇭",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "PW",
+  "name": "Palau",
+  "official": "Republic of Palau",
+  "aliases": [
+   "Beluu er a Belau",
+   "Palau",
+   "Republic of Palau"
+  ],
+  "capital": "Ngerulmud",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "lat": 7.5,
+  "lon": 134.5,
+  "areaKm2": 459,
+  "flag": "🇵🇼",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "PG",
+  "name": "Papua New Guinea",
+  "official": "Independent State of Papua New Guinea",
+  "aliases": [
+   "Independen Stet bilong Papua Niugini",
+   "Independent State of Papua New Guinea",
+   "Papua New Guinea"
+  ],
+  "capital": "Port Moresby",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "lat": -6,
+  "lon": 147,
+  "areaKm2": 462840,
+  "flag": "🇵🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "ID"
+  ]
+ },
+ {
+  "code": "PL",
+  "name": "Poland",
+  "official": "Republic of Poland",
+  "aliases": [
+   "Poland",
+   "Republic of Poland",
+   "Rzeczpospolita Polska"
+  ],
+  "capital": "Warsaw",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 52,
+  "lon": 20,
+  "areaKm2": 312679,
+  "flag": "🇵🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "BY",
+   "CZ",
+   "DE",
+   "LT",
+   "RU",
+   "SK",
+   "UA"
+  ]
+ },
+ {
+  "code": "KP",
+  "name": "North Korea",
+  "official": "Democratic People's Republic of Korea",
+  "aliases": [
+   "Chosŏn Minjujuŭi Inmin Konghwaguk",
+   "DPRK",
+   "Democratic People's Republic of Korea",
+   "Korea, Democratic People's Republic of",
+   "North Korea",
+   "조선민주주의인민공화국"
+  ],
+  "capital": "Pyongyang",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "lat": 40,
+  "lon": 127,
+  "areaKm2": 120538,
+  "flag": "🇰🇵",
+  "inPuzzlePool": true,
+  "borders": [
+   "CN",
+   "KR",
+   "RU"
+  ]
+ },
+ {
+  "code": "PT",
+  "name": "Portugal",
+  "official": "Portuguese Republic",
+  "aliases": [
+   "Portugal",
+   "Portuguesa",
+   "Portuguese Republic",
+   "República Portuguesa"
+  ],
+  "capital": "Lisbon",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 39.5,
+  "lon": -8,
+  "areaKm2": 92090,
+  "flag": "🇵🇹",
+  "inPuzzlePool": true,
+  "borders": [
+   "ES"
+  ]
+ },
+ {
+  "code": "PY",
+  "name": "Paraguay",
+  "official": "Republic of Paraguay",
+  "aliases": [
+   "Paraguay",
+   "Republic of Paraguay",
+   "República del Paraguay",
+   "Tetã Paraguái"
+  ],
+  "capital": "Asunción",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -23,
+  "lon": -58,
+  "areaKm2": 406752,
+  "flag": "🇵🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "AR",
+   "BO",
+   "BR"
+  ]
+ },
+ {
+  "code": "QA",
+  "name": "Qatar",
+  "official": "State of Qatar",
+  "aliases": [
+   "Dawlat Qaṭar",
+   "Qatar",
+   "State of Qatar"
+  ],
+  "capital": "Doha",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 25.5,
+  "lon": 51.25,
+  "areaKm2": 11586,
+  "flag": "🇶🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "SA"
+  ]
+ },
+ {
+  "code": "RO",
+  "name": "Romania",
+  "official": "Romania",
+  "aliases": [
+   "Romania",
+   "România",
+   "Roumania",
+   "Rumania"
+  ],
+  "capital": "Bucharest",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 46,
+  "lon": 25,
+  "areaKm2": 238391,
+  "flag": "🇷🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "BG",
+   "HU",
+   "MD",
+   "RS",
+   "UA"
+  ]
+ },
+ {
+  "code": "RU",
+  "name": "Russia",
+  "official": "Russian Federation",
+  "aliases": [
+   "Russia",
+   "Russian Federation",
+   "Российская Федерация"
+  ],
+  "capital": "Moscow",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "lat": 60,
+  "lon": 100,
+  "areaKm2": 17098242,
+  "flag": "🇷🇺",
+  "inPuzzlePool": true,
+  "borders": [
+   "AZ",
+   "BY",
+   "CN",
+   "EE",
+   "FI",
+   "GE",
+   "KZ",
+   "KP",
+   "LV",
+   "LT",
+   "MN",
+   "NO",
+   "PL",
+   "UA"
+  ]
+ },
+ {
+  "code": "RW",
+  "name": "Rwanda",
+  "official": "Republic of Rwanda",
+  "aliases": [
+   "Republic of Rwanda",
+   "Repubulika y'u Rwanda",
+   "Rwanda",
+   "République du Rwanda"
+  ],
+  "capital": "Kigali",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -2,
+  "lon": 30,
+  "areaKm2": 26338,
+  "flag": "🇷🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "BI",
+   "CD",
+   "TZ",
+   "UG"
+  ]
+ },
+ {
+  "code": "SA",
+  "name": "Saudi Arabia",
+  "official": "Kingdom of Saudi Arabia",
+  "aliases": [
+   "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah",
+   "Kingdom of Saudi Arabia",
+   "Saudi",
+   "Saudi Arabia"
+  ],
+  "capital": "Riyadh",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 25,
+  "lon": 45,
+  "areaKm2": 2149690,
+  "flag": "🇸🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "IQ",
+   "JO",
+   "KW",
+   "OM",
+   "QA",
+   "AE",
+   "YE"
+  ]
+ },
+ {
+  "code": "SD",
+  "name": "Sudan",
+  "official": "Republic of the Sudan",
+  "aliases": [
+   "Jumhūrīyat as-Sūdān",
+   "Republic of the Sudan",
+   "Sudan"
+  ],
+  "capital": "Khartoum",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 15,
+  "lon": 30,
+  "areaKm2": 1886068,
+  "flag": "🇸🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "CF",
+   "TD",
+   "EG",
+   "ER",
+   "ET",
+   "LY",
+   "SS"
+  ]
+ },
+ {
+  "code": "SN",
+  "name": "Senegal",
+  "official": "Republic of Senegal",
+  "aliases": [
+   "Republic of Senegal",
+   "République du Sénégal",
+   "Senegal"
+  ],
+  "capital": "Dakar",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 14,
+  "lon": -14,
+  "areaKm2": 196722,
+  "flag": "🇸🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "GM",
+   "GN",
+   "GW",
+   "ML",
+   "MR"
+  ]
+ },
+ {
+  "code": "SG",
+  "name": "Singapore",
+  "official": "Republic of Singapore",
+  "aliases": [
+   "Republic of Singapore",
+   "Republik Singapura",
+   "Singapore",
+   "Singapura",
+   "新加坡共和国"
+  ],
+  "capital": "Singapore",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 1.36666666,
+  "lon": 103.8,
+  "areaKm2": 710,
+  "flag": "🇸🇬",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "SB",
+  "name": "Solomon Islands",
+  "official": "Solomon Islands",
+  "aliases": [
+   "Solomon Islands"
+  ],
+  "capital": "Honiara",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "lat": -8,
+  "lon": 159,
+  "areaKm2": 28896,
+  "flag": "🇸🇧",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "SL",
+  "name": "Sierra Leone",
+  "official": "Republic of Sierra Leone",
+  "aliases": [
+   "Republic of Sierra Leone",
+   "Sierra Leone"
+  ],
+  "capital": "Freetown",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 8.5,
+  "lon": -11.5,
+  "areaKm2": 71740,
+  "flag": "🇸🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "GN",
+   "LR"
+  ]
+ },
+ {
+  "code": "SV",
+  "name": "El Salvador",
+  "official": "Republic of El Salvador",
+  "aliases": [
+   "El Salvador",
+   "Republic of El Salvador",
+   "República de El Salvador"
+  ],
+  "capital": "San Salvador",
+  "region": "Americas",
+  "subregion": "Central America",
+  "lat": 13.83333333,
+  "lon": -88.91666666,
+  "areaKm2": 21041,
+  "flag": "🇸🇻",
+  "inPuzzlePool": true,
+  "borders": [
+   "GT",
+   "HN"
+  ]
+ },
+ {
+  "code": "SM",
+  "name": "San Marino",
+  "official": "Most Serene Republic of San Marino",
+  "aliases": [
+   "Most Serene Republic of San Marino",
+   "Repubblica di San Marino",
+   "Republic of San Marino",
+   "San Marino"
+  ],
+  "capital": "City of San Marino",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 43.76666666,
+  "lon": 12.41666666,
+  "areaKm2": 61,
+  "flag": "🇸🇲",
+  "inPuzzlePool": false,
+  "borders": [
+   "IT"
+  ]
+ },
+ {
+  "code": "SO",
+  "name": "Somalia",
+  "official": "Federal Republic of Somalia",
+  "aliases": [
+   "Federal Republic of Somalia",
+   "Jamhuuriyadda Federaalka Soomaaliya",
+   "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya",
+   "Somalia",
+   "aṣ-Ṣūmāl"
+  ],
+  "capital": "Mogadishu",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 10,
+  "lon": 49,
+  "areaKm2": 637657,
+  "flag": "🇸🇴",
+  "inPuzzlePool": true,
+  "borders": [
+   "DJ",
+   "ET",
+   "KE"
+  ]
+ },
+ {
+  "code": "RS",
+  "name": "Serbia",
+  "official": "Republic of Serbia",
+  "aliases": [
+   "Republic of Serbia",
+   "Republika Srbija",
+   "Serbia",
+   "Srbija",
+   "Република Србија",
+   "Србија"
+  ],
+  "capital": "Belgrade",
+  "region": "Europe",
+  "subregion": "Southeast Europe",
+  "lat": 44,
+  "lon": 21,
+  "areaKm2": 88361,
+  "flag": "🇷🇸",
+  "inPuzzlePool": true,
+  "borders": [
+   "BA",
+   "BG",
+   "HR",
+   "HU",
+   "XK",
+   "MK",
+   "ME",
+   "RO"
+  ]
+ },
+ {
+  "code": "SS",
+  "name": "South Sudan",
+  "official": "Republic of South Sudan",
+  "aliases": [
+   "Republic of South Sudan",
+   "South Sudan"
+  ],
+  "capital": "Juba",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 7,
+  "lon": 30,
+  "areaKm2": 619745,
+  "flag": "🇸🇸",
+  "inPuzzlePool": true,
+  "borders": [
+   "CF",
+   "CD",
+   "ET",
+   "KE",
+   "SD",
+   "UG"
+  ]
+ },
+ {
+  "code": "ST",
+  "name": "São Tomé and Príncipe",
+  "official": "Democratic Republic of São Tomé and Príncipe",
+  "aliases": [
+   "Democratic Republic of São Tomé and Príncipe",
+   "República Democrática de São Tomé e Príncipe",
+   "Sao Tome and Principe",
+   "São Tomé and Príncipe"
+  ],
+  "capital": "São Tomé",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 1,
+  "lon": 7,
+  "areaKm2": 964,
+  "flag": "🇸🇹",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "SR",
+  "name": "Suriname",
+  "official": "Republic of Suriname",
+  "aliases": [
+   "Republic of Suriname",
+   "Republiek Suriname",
+   "Sarnam",
+   "Sranangron",
+   "Suriname"
+  ],
+  "capital": "Paramaribo",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": 4,
+  "lon": -56,
+  "areaKm2": 163820,
+  "flag": "🇸🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "BR",
+   "GF",
+   "GY"
+  ]
+ },
+ {
+  "code": "SK",
+  "name": "Slovakia",
+  "official": "Slovak Republic",
+  "aliases": [
+   "Slovak Republic",
+   "Slovakia",
+   "Slovenská republika"
+  ],
+  "capital": "Bratislava",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 48.66666666,
+  "lon": 19.5,
+  "areaKm2": 49037,
+  "flag": "🇸🇰",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "CZ",
+   "HU",
+   "PL",
+   "UA"
+  ]
+ },
+ {
+  "code": "SI",
+  "name": "Slovenia",
+  "official": "Republic of Slovenia",
+  "aliases": [
+   "Republic of Slovenia",
+   "Republika Slovenija",
+   "Slovenia"
+  ],
+  "capital": "Ljubljana",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "lat": 46.11666666,
+  "lon": 14.81666666,
+  "areaKm2": 20273,
+  "flag": "🇸🇮",
+  "inPuzzlePool": true,
+  "borders": [
+   "AT",
+   "HR",
+   "IT",
+   "HU"
+  ]
+ },
+ {
+  "code": "SE",
+  "name": "Sweden",
+  "official": "Kingdom of Sweden",
+  "aliases": [
+   "Kingdom of Sweden",
+   "Konungariket Sverige",
+   "Sweden"
+  ],
+  "capital": "Stockholm",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "lat": 62,
+  "lon": 15,
+  "areaKm2": 450295,
+  "flag": "🇸🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "FI",
+   "NO"
+  ]
+ },
+ {
+  "code": "SZ",
+  "name": "Eswatini",
+  "official": "Kingdom of Eswatini",
+  "aliases": [
+   "Eswatini",
+   "Kingdom of Eswatini",
+   "Ngwane",
+   "Swatini",
+   "Swaziland",
+   "Umbuso weSwatini",
+   "weSwatini"
+  ],
+  "capital": "Lobamba",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "lat": -26.5,
+  "lon": 31.5,
+  "areaKm2": 17364,
+  "flag": "🇸🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "MZ",
+   "ZA"
+  ]
+ },
+ {
+  "code": "SC",
+  "name": "Seychelles",
+  "official": "Republic of Seychelles",
+  "aliases": [
+   "Repiblik Sesel",
+   "Republic of Seychelles",
+   "République des Seychelles",
+   "Seychelles"
+  ],
+  "capital": "Victoria",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -4.58333333,
+  "lon": 55.66666666,
+  "areaKm2": 452,
+  "flag": "🇸🇨",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "SY",
+  "name": "Syria",
+  "official": "Syrian Arab Republic",
+  "aliases": [
+   "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah",
+   "Syria",
+   "Syrian Arab Republic"
+  ],
+  "capital": "Damascus",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 35,
+  "lon": 38,
+  "areaKm2": 185180,
+  "flag": "🇸🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "IQ",
+   "IL",
+   "JO",
+   "LB",
+   "TR"
+  ]
+ },
+ {
+  "code": "TD",
+  "name": "Chad",
+  "official": "Republic of Chad",
+  "aliases": [
+   "Chad",
+   "Republic of Chad",
+   "République du Tchad",
+   "Tchad"
+  ],
+  "capital": "N'Djamena",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "lat": 15,
+  "lon": 19,
+  "areaKm2": 1284000,
+  "flag": "🇹🇩",
+  "inPuzzlePool": true,
+  "borders": [
+   "CM",
+   "CF",
+   "LY",
+   "NE",
+   "NG",
+   "SD"
+  ]
+ },
+ {
+  "code": "TG",
+  "name": "Togo",
+  "official": "Togolese Republic",
+  "aliases": [
+   "République Togolaise",
+   "Togo",
+   "Togolese",
+   "Togolese Republic"
+  ],
+  "capital": "Lomé",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "lat": 8,
+  "lon": 1.16666666,
+  "areaKm2": 56785,
+  "flag": "🇹🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "BJ",
+   "BF",
+   "GH"
+  ]
+ },
+ {
+  "code": "TH",
+  "name": "Thailand",
+  "official": "Kingdom of Thailand",
+  "aliases": [
+   "Kingdom of Thailand",
+   "Prathet",
+   "Ratcha Anachak Thai",
+   "Thai",
+   "Thailand",
+   "ราชอาณาจักรไทย"
+  ],
+  "capital": "Bangkok",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 15,
+  "lon": 100,
+  "areaKm2": 513120,
+  "flag": "🇹🇭",
+  "inPuzzlePool": true,
+  "borders": [
+   "MM",
+   "KH",
+   "LA",
+   "MY"
+  ]
+ },
+ {
+  "code": "TJ",
+  "name": "Tajikistan",
+  "official": "Republic of Tajikistan",
+  "aliases": [
+   "Republic of Tajikistan",
+   "Tajikistan",
+   "Toçikiston",
+   "Çumhuriyi Toçikiston",
+   "Ҷумҳурии Тоҷикистон"
+  ],
+  "capital": "Dushanbe",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "lat": 39,
+  "lon": 71,
+  "areaKm2": 143100,
+  "flag": "🇹🇯",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "CN",
+   "KG",
+   "UZ"
+  ]
+ },
+ {
+  "code": "TM",
+  "name": "Turkmenistan",
+  "official": "Turkmenistan",
+  "aliases": [
+   "Turkmenistan"
+  ],
+  "capital": "Ashgabat",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "lat": 40,
+  "lon": 60,
+  "areaKm2": 488100,
+  "flag": "🇹🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "IR",
+   "KZ",
+   "UZ"
+  ]
+ },
+ {
+  "code": "TL",
+  "name": "Timor-Leste",
+  "official": "Democratic Republic of Timor-Leste",
+  "aliases": [
+   "Democratic Republic of Timor-Leste",
+   "East Timor",
+   "República Democrática de Timor-Leste",
+   "Repúblika Demokrátika Timór-Leste",
+   "Timor",
+   "Timor Lorosae",
+   "Timor-Leste",
+   "Timór Lorosa'e"
+  ],
+  "capital": "Dili",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": -8.83333333,
+  "lon": 125.91666666,
+  "areaKm2": 14874,
+  "flag": "🇹🇱",
+  "inPuzzlePool": true,
+  "borders": [
+   "ID"
+  ]
+ },
+ {
+  "code": "TO",
+  "name": "Tonga",
+  "official": "Kingdom of Tonga",
+  "aliases": [
+   "Kingdom of Tonga",
+   "Tonga"
+  ],
+  "capital": "Nuku'alofa",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "lat": -20,
+  "lon": -175,
+  "areaKm2": 747,
+  "flag": "🇹🇴",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "TT",
+  "name": "Trinidad and Tobago",
+  "official": "Republic of Trinidad and Tobago",
+  "aliases": [
+   "Republic of Trinidad and Tobago",
+   "Trinidad and Tobago"
+  ],
+  "capital": "Port of Spain",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 11,
+  "lon": -61,
+  "areaKm2": 5130,
+  "flag": "🇹🇹",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "TN",
+  "name": "Tunisia",
+  "official": "Tunisian Republic",
+  "aliases": [
+   "Republic of Tunisia",
+   "Tunisia",
+   "Tunisian Republic",
+   "al-Jumhūriyyah at-Tūnisiyyah"
+  ],
+  "capital": "Tunis",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "lat": 34,
+  "lon": 9,
+  "areaKm2": 163610,
+  "flag": "🇹🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "DZ",
+   "LY"
+  ]
+ },
+ {
+  "code": "TR",
+  "name": "Türkiye",
+  "official": "Republic of Türkiye",
+  "aliases": [
+   "Republic of Turkey",
+   "Republic of Türkiye",
+   "Turkiye",
+   "Türkiye",
+   "Türkiye Cumhuriyeti"
+  ],
+  "capital": "Ankara",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 39,
+  "lon": 35,
+  "areaKm2": 783562,
+  "flag": "🇹🇷",
+  "inPuzzlePool": true,
+  "borders": [
+   "AM",
+   "AZ",
+   "BG",
+   "GE",
+   "GR",
+   "IR",
+   "IQ",
+   "SY"
+  ]
+ },
+ {
+  "code": "TV",
+  "name": "Tuvalu",
+  "official": "Tuvalu",
+  "aliases": [
+   "Tuvalu"
+  ],
+  "capital": "Funafuti",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "lat": -8,
+  "lon": 178,
+  "areaKm2": 26,
+  "flag": "🇹🇻",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "TZ",
+  "name": "Tanzania",
+  "official": "United Republic of Tanzania",
+  "aliases": [
+   "Jamhuri ya Muungano wa Tanzania",
+   "Tanzania",
+   "Tanzania, United Republic of",
+   "United Republic of Tanzania"
+  ],
+  "capital": "Dodoma",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -6,
+  "lon": 35,
+  "areaKm2": 945087,
+  "flag": "🇹🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "BI",
+   "CD",
+   "KE",
+   "MW",
+   "MZ",
+   "RW",
+   "UG",
+   "ZM"
+  ]
+ },
+ {
+  "code": "UG",
+  "name": "Uganda",
+  "official": "Republic of Uganda",
+  "aliases": [
+   "Jamhuri ya Uganda",
+   "Republic of Uganda",
+   "Uganda"
+  ],
+  "capital": "Kampala",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": 1,
+  "lon": 32,
+  "areaKm2": 241550,
+  "flag": "🇺🇬",
+  "inPuzzlePool": true,
+  "borders": [
+   "CD",
+   "KE",
+   "RW",
+   "SS",
+   "TZ"
+  ]
+ },
+ {
+  "code": "UA",
+  "name": "Ukraine",
+  "official": "Ukraine",
+  "aliases": [
+   "Ukraine",
+   "Ukrayina"
+  ],
+  "capital": "Kyiv",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "lat": 49,
+  "lon": 32,
+  "areaKm2": 603500,
+  "flag": "🇺🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "BY",
+   "HU",
+   "MD",
+   "PL",
+   "RO",
+   "RU",
+   "SK"
+  ]
+ },
+ {
+  "code": "UY",
+  "name": "Uruguay",
+  "official": "Oriental Republic of Uruguay",
+  "aliases": [
+   "Oriental Republic of Uruguay",
+   "República Oriental del Uruguay",
+   "Uruguay"
+  ],
+  "capital": "Montevideo",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": -33,
+  "lon": -56,
+  "areaKm2": 181034,
+  "flag": "🇺🇾",
+  "inPuzzlePool": true,
+  "borders": [
+   "AR",
+   "BR"
+  ]
+ },
+ {
+  "code": "US",
+  "name": "United States",
+  "official": "United States of America",
+  "aliases": [
+   "United States",
+   "United States of America"
+  ],
+  "capital": "Washington D.C.",
+  "region": "Americas",
+  "subregion": "North America",
+  "lat": 38,
+  "lon": -97,
+  "areaKm2": 9372610,
+  "flag": "🇺🇸",
+  "inPuzzlePool": true,
+  "borders": [
+   "CA",
+   "MX"
+  ]
+ },
+ {
+  "code": "UZ",
+  "name": "Uzbekistan",
+  "official": "Republic of Uzbekistan",
+  "aliases": [
+   "O‘zbekiston Respublikasi",
+   "Republic of Uzbekistan",
+   "Uzbekistan",
+   "Ўзбекистон Республикаси"
+  ],
+  "capital": "Tashkent",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "lat": 41,
+  "lon": 64,
+  "areaKm2": 447400,
+  "flag": "🇺🇿",
+  "inPuzzlePool": true,
+  "borders": [
+   "AF",
+   "KZ",
+   "KG",
+   "TJ",
+   "TM"
+  ]
+ },
+ {
+  "code": "VA",
+  "name": "Vatican City",
+  "official": "Vatican City State",
+  "aliases": [
+   "Holy See (Vatican City State)",
+   "Stato della Città del Vaticano",
+   "Vatican",
+   "Vatican City",
+   "Vatican City State"
+  ],
+  "capital": "Vatican City",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "lat": 41.9,
+  "lon": 12.45,
+  "areaKm2": 0.44,
+  "flag": "🇻🇦",
+  "inPuzzlePool": false,
+  "borders": [
+   "IT"
+  ]
+ },
+ {
+  "code": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "official": "Saint Vincent and the Grenadines",
+  "aliases": [
+   "Saint Vincent and the Grenadines"
+  ],
+  "capital": "Kingstown",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "lat": 13.25,
+  "lon": -61.2,
+  "areaKm2": 389,
+  "flag": "🇻🇨",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "VE",
+  "name": "Venezuela",
+  "official": "Bolivarian Republic of Venezuela",
+  "aliases": [
+   "Bolivarian Republic of Venezuela",
+   "República Bolivariana de Venezuela",
+   "Venezuela",
+   "Venezuela, Bolivarian Republic of"
+  ],
+  "capital": "Caracas",
+  "region": "Americas",
+  "subregion": "South America",
+  "lat": 8,
+  "lon": -66,
+  "areaKm2": 916445,
+  "flag": "🇻🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "BR",
+   "CO",
+   "GY"
+  ]
+ },
+ {
+  "code": "VN",
+  "name": "Vietnam",
+  "official": "Socialist Republic of Vietnam",
+  "aliases": [
+   "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+   "Socialist Republic of Vietnam",
+   "Viet Nam",
+   "Vietnam"
+  ],
+  "capital": "Hanoi",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "lat": 16.16666666,
+  "lon": 107.83333333,
+  "areaKm2": 331212,
+  "flag": "🇻🇳",
+  "inPuzzlePool": true,
+  "borders": [
+   "KH",
+   "CN",
+   "LA"
+  ]
+ },
+ {
+  "code": "VU",
+  "name": "Vanuatu",
+  "official": "Republic of Vanuatu",
+  "aliases": [
+   "Republic of Vanuatu",
+   "Ripablik blong Vanuatu",
+   "République de Vanuatu",
+   "Vanuatu"
+  ],
+  "capital": "Port Vila",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "lat": -16,
+  "lon": 167,
+  "areaKm2": 12189,
+  "flag": "🇻🇺",
+  "inPuzzlePool": true,
+  "borders": []
+ },
+ {
+  "code": "WS",
+  "name": "Samoa",
+  "official": "Independent State of Samoa",
+  "aliases": [
+   "Independent State of Samoa",
+   "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+   "Samoa"
+  ],
+  "capital": "Apia",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "lat": -13.58333333,
+  "lon": -172.33333333,
+  "areaKm2": 2842,
+  "flag": "🇼🇸",
+  "inPuzzlePool": false,
+  "borders": []
+ },
+ {
+  "code": "YE",
+  "name": "Yemen",
+  "official": "Republic of Yemen",
+  "aliases": [
+   "Republic of Yemen",
+   "Yemen",
+   "Yemeni Republic",
+   "al-Jumhūriyyah al-Yamaniyyah"
+  ],
+  "capital": "Sana'a",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "lat": 15,
+  "lon": 48,
+  "areaKm2": 527968,
+  "flag": "🇾🇪",
+  "inPuzzlePool": true,
+  "borders": [
+   "OM",
+   "SA"
+  ]
+ },
+ {
+  "code": "ZA",
+  "name": "South Africa",
+  "official": "Republic of South Africa",
+  "aliases": [
+   "Republic of South Africa",
+   "South Africa",
+   "Suid-Afrika"
+  ],
+  "capital": "Pretoria",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "lat": -29,
+  "lon": 24,
+  "areaKm2": 1221037,
+  "flag": "🇿🇦",
+  "inPuzzlePool": true,
+  "borders": [
+   "BW",
+   "LS",
+   "MZ",
+   "NA",
+   "SZ",
+   "ZW"
+  ]
+ },
+ {
+  "code": "ZM",
+  "name": "Zambia",
+  "official": "Republic of Zambia",
+  "aliases": [
+   "Republic of Zambia",
+   "Zambia"
+  ],
+  "capital": "Lusaka",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -15,
+  "lon": 30,
+  "areaKm2": 752612,
+  "flag": "🇿🇲",
+  "inPuzzlePool": true,
+  "borders": [
+   "AO",
+   "BW",
+   "CD",
+   "MW",
+   "MZ",
+   "NA",
+   "TZ",
+   "ZW"
+  ]
+ },
+ {
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "official": "Republic of Zimbabwe",
+  "aliases": [
+   "Republic of Zimbabwe",
+   "Zimbabwe"
+  ],
+  "capital": "Harare",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "lat": -20,
+  "lon": 30,
+  "areaKm2": 390757,
+  "flag": "🇿🇼",
+  "inPuzzlePool": true,
+  "borders": [
+   "BW",
+   "MZ",
+   "ZA",
+   "ZM"
+  ]
+ }
+]
