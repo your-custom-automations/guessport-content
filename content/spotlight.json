@@ -1,0 +1,3703 @@
+{
+ "seasons": [
+  {
+   "id": "2026-10",
+   "code": "JP",
+   "title": "Japan",
+   "flag": "🇯🇵",
+   "from": "2026-09-13",
+   "to": "2026-10-31",
+   "tagline": "Word puzzles from Sapporo to Okinawa.",
+   "outfit": "japan",
+   "theme": "sakura",
+   "stops": [
+    {
+     "answer": "BONSAI",
+     "hint": "Trees kept tiny for centuries",
+     "fact": "Bonsai are ordinary trees, kept small by pruning and wiring. Some in Japan are over 500 years old and have outlived a dozen owners.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "BONSAI",
+        "r": 3,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "BASIN",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "BISON",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "IONS",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "SOB",
+        "r": 0,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "SON",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "BAN",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "BIN",
+        "r": 2,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "NAB",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ABO",
+      "ABS",
+      "AIN",
+      "AIS",
+      "ANI",
+      "BIO",
+      "ION",
+      "NOB",
+      "OBI",
+      "SAB",
+      "SIB",
+      "SIN",
+      "ABOS",
+      "AINS",
+      "ANIS",
+      "BANI",
+      "BANS",
+      "BIAS",
+      "BINS",
+      "BIOS",
+      "BOAS",
+      "ISBA",
+      "NABS",
+      "NAOI",
+      "NAOS",
+      "NIBS",
+      "NOBS",
+      "OBIA",
+      "OBIS",
+      "SAIN",
+      "SNIB",
+      "SNOB",
+      "NABIS",
+      "OBIAS",
+      "SABIN",
+      "BASION"
+     ],
+     "photo": "lm18"
+    },
+    {
+     "answer": "SHRINE",
+     "hint": "Where you clap twice at the gate",
+     "fact": "Shinto shrines are marked by a torii gate. Visitors bow, clap twice, and bow again to greet the kami who lives there.",
+     "grid": {
+      "w": 6,
+      "h": 9,
+      "words": [
+       {
+        "w": "SHRINE",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SHINE",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "HIRES",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RISEN",
+        "r": 0,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "SHIRE",
+        "r": 4,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "RINSE",
+        "r": 8,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SHIN",
+        "r": 6,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "SIN",
+        "r": 6,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "SIR",
+        "r": 6,
+        "c": 0,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ENS",
+      "ERN",
+      "HEN",
+      "HER",
+      "HIE",
+      "HIN",
+      "HIS",
+      "IRE",
+      "RES",
+      "RIN",
+      "SEI",
+      "SHE",
+      "SRI",
+      "ERNS",
+      "HEIR",
+      "HENS",
+      "HERN",
+      "HERS",
+      "HIES",
+      "HINS",
+      "HIRE",
+      "HISN",
+      "IRES",
+      "REIN",
+      "REIS",
+      "RESH",
+      "RINS",
+      "RISE",
+      "SHRI",
+      "SINE",
+      "SINH",
+      "SIRE",
+      "HEIRS",
+      "HERNS",
+      "REINS",
+      "RESIN",
+      "SERIN",
+      "SHIER",
+      "SIREN",
+      "SHINER"
+     ],
+     "photo": "lm2"
+    },
+    {
+     "answer": "TEMPLE",
+     "hint": "Bells, incense and a giant bronze Buddha",
+     "fact": "Todai-ji in Nara holds a bronze Buddha 15 metres tall. The wooden hall around it was once the largest wooden building on Earth.",
+     "grid": {
+      "w": 6,
+      "h": 8,
+      "words": [
+       {
+        "w": "TEMPLE",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "TEMP",
+        "r": 4,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "PEEL",
+        "r": 4,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "MEET",
+        "r": 6,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "MELT",
+        "r": 3,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "ELM",
+        "r": 2,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "LET",
+        "r": 2,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "EEL",
+        "r": 0,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "PET",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "EME",
+      "LEE",
+      "MET",
+      "PEE",
+      "TEE",
+      "LEET",
+      "LEPT",
+      "METE",
+      "PELE",
+      "PELT",
+      "TEEL",
+      "TEEM",
+      "PELMET"
+     ],
+     "photo": "lm12"
+    },
+    {
+     "answer": "GEISHA",
+     "hint": "An artist of dance, song and conversation",
+     "fact": "Geisha means \"art person\". Apprentices in Kyoto are called maiko and train for years in dance, music and the tea ceremony.",
+     "grid": {
+      "w": 7,
+      "h": 6,
+      "words": [
+       {
+        "w": "GEISHA",
+        "r": 3,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "AGES",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "SAGE",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "ASH",
+        "r": 0,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "AGE",
+        "r": 3,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "HAS",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "GAS",
+        "r": 3,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "SAG",
+        "r": 5,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "HIS",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AIS",
+      "GAE",
+      "GHI",
+      "GIE",
+      "HAE",
+      "HAG",
+      "HIE",
+      "SAE",
+      "SEA",
+      "SEG",
+      "SEI",
+      "SHE",
+      "EGIS",
+      "GAES",
+      "GASH",
+      "GHIS",
+      "GIES",
+      "HAES",
+      "HAGS",
+      "HIES",
+      "SHAG",
+      "SIGH",
+      "AEGIS"
+     ],
+     "photo": "lm39"
+    },
+    {
+     "answer": "NOODLE",
+     "hint": "Slurping is a compliment",
+     "fact": "In Japan, slurping ramen or soba loudly is polite. It cools the noodles and tells the cook you are enjoying them.",
+     "grid": {
+      "w": 8,
+      "h": 5,
+      "words": [
+       {
+        "w": "NOODLE",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "LEND",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "DOE",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "NOD",
+        "r": 0,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "DONE",
+        "r": 1,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ONE",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "LONE",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "LED",
+        "r": 4,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "END",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "DEL",
+      "DEN",
+      "DOL",
+      "DON",
+      "ELD",
+      "EON",
+      "LOO",
+      "NOO",
+      "ODE",
+      "OLD",
+      "OLE",
+      "DOLE",
+      "ENOL",
+      "LENO",
+      "LODE",
+      "LOON",
+      "NODE",
+      "NOEL",
+      "NOLO",
+      "OLEO",
+      "LODEN",
+      "LOOED",
+      "ODEON",
+      "OLDEN"
+     ],
+     "photo": "lm14"
+    },
+    {
+     "answer": "GARDEN",
+     "hint": "Raked gravel and one perfect stone",
+     "fact": "Ryoan-ji's rock garden has 15 stones. From any seat on the veranda, one is always hidden from view.",
+     "grid": {
+      "w": 6,
+      "h": 9,
+      "words": [
+       {
+        "w": "GARDEN",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RANGED",
+        "r": 1,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "DANGER",
+        "r": 6,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "GRADE",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "RANGE",
+        "r": 4,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "DEAN",
+        "r": 8,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "GEAR",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "RAGE",
+        "r": 0,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "NERD",
+        "r": 4,
+        "c": 5,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AGE",
+      "AND",
+      "ANE",
+      "ARE",
+      "DEN",
+      "EAR",
+      "END",
+      "ERA",
+      "ERG",
+      "ERN",
+      "GAD",
+      "GAE",
+      "GAR",
+      "GEN",
+      "NAE",
+      "NAG",
+      "RAD",
+      "RAG",
+      "RAN",
+      "RED",
+      "REG",
+      "AGED",
+      "AGER",
+      "DANG",
+      "DARE",
+      "DEAR",
+      "DRAG",
+      "DREG",
+      "EARN",
+      "EGAD",
+      "GAED",
+      "GAEN",
+      "GANE",
+      "GNAR",
+      "GRAD",
+      "GRAN",
+      "NARD",
+      "NEAR",
+      "RANG",
+      "READ",
+      "REND",
+      "ANGER",
+      "GRAND",
+      "RAGED",
+      "REDAN",
+      "REGNA",
+      "GANDER"
+     ],
+     "photo": "lm5"
+    },
+    {
+     "answer": "ISLAND",
+     "hint": "Japan has more than 14,000 of them",
+     "fact": "Japan counts over 14,000 islands. Only about 430 are inhabited, and four make up nearly all the land.",
+     "grid": {
+      "w": 6,
+      "h": 9,
+      "words": [
+       {
+        "w": "ISLAND",
+        "r": 5,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "LANDS",
+        "r": 1,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "LAND",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "NAILS",
+        "r": 4,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "DIAL",
+        "r": 7,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AIDS",
+        "r": 3,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "AID",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "AND",
+        "r": 0,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "SIN",
+        "r": 8,
+        "c": 3,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ADS",
+      "AIL",
+      "AIN",
+      "AIS",
+      "ANI",
+      "DIN",
+      "LAD",
+      "NIL",
+      "SAD",
+      "SAL",
+      "AILS",
+      "AINS",
+      "ANDS",
+      "ANIL",
+      "ANIS",
+      "DAIS",
+      "DALS",
+      "DINS",
+      "LADS",
+      "LAID",
+      "LAIN",
+      "LIDS",
+      "LINS",
+      "NAIL",
+      "NILS",
+      "SADI",
+      "SAID",
+      "SAIL",
+      "SAIN",
+      "SAND",
+      "SIAL",
+      "SILD",
+      "SLID",
+      "ANILS",
+      "DIALS",
+      "NIDAL",
+      "SLAIN",
+      "SNAIL"
+     ],
+     "photo": "lm1"
+    },
+    {
+     "answer": "PAGODA",
+     "hint": "Five roofs, one shaking pillar",
+     "fact": "Japanese pagodas have a central pillar that hangs loose. It lets the tower sway in earthquakes, and almost none have ever fallen.",
+     "grid": {
+      "w": 6,
+      "h": 5,
+      "words": [
+       {
+        "w": "PAGODA",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "DOG",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "GOD",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AGO",
+        "r": 2,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "ADO",
+        "r": 2,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "GAP",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "PAD",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "POD",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AGA",
+      "DAP",
+      "GAD",
+      "GOA",
+      "APOD",
+      "DAGO",
+      "DOPA",
+      "GOAD",
+      "PAGOD"
+     ],
+     "photo": "lm19"
+    },
+    {
+     "answer": "LANTERN",
+     "hint": "Paper, bamboo and a candle",
+     "fact": "Chochin paper lanterns still hang outside izakaya bars. A red one means the kitchen is open and the sake is cold.",
+     "grid": {
+      "w": 9,
+      "h": 6,
+      "words": [
+       {
+        "w": "LANTERN",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RENTAL",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "ALTER",
+        "r": 1,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "TANNER",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "ALERT",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ARE",
+        "r": 5,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "ERA",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "ALE",
+        "r": 1,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "RENT",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ALT",
+      "ANE",
+      "ANT",
+      "ART",
+      "ATE",
+      "EAR",
+      "EAT",
+      "ERN",
+      "LAR",
+      "LAT",
+      "LEA",
+      "LET",
+      "NAE",
+      "NAN",
+      "NET",
+      "RAN",
+      "RAT",
+      "TAE",
+      "TAN",
+      "TAR",
+      "TEA",
+      "TEN",
+      "ANTE",
+      "EARL",
+      "EARN",
+      "ELAN",
+      "ETNA",
+      "LANE",
+      "LATE",
+      "LEAN",
+      "LEAR",
+      "LENT",
+      "NEAR",
+      "NEAT",
+      "RALE",
+      "RANT",
+      "RATE",
+      "REAL",
+      "TAEL",
+      "TALE",
+      "TARE",
+      "TARN",
+      "TEAL",
+      "TEAR",
+      "TERN",
+      "ANENT",
+      "ANTRE",
+      "ARTEL",
+      "LATEN",
+      "LATER",
+      "LEANT",
+      "LEARN",
+      "RATEL",
+      "RENAL",
+      "TALER",
+      "ANTLER",
+      "LANNER",
+      "LEARNT"
+     ],
+     "photo": "lm10"
+    },
+    {
+     "answer": "KARATE",
+     "hint": "Empty hand",
+     "fact": "Karate means \"empty hand\". It grew in Okinawa, where weapons were banned, and joined the Olympics in Tokyo in 2021.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "KARATE",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "TEA",
+        "r": 2,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "TEAR",
+        "r": 1,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "RAT",
+        "r": 2,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "TAKE",
+        "r": 2,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "TREK",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "ERA",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "EAT",
+        "r": 0,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "ATE",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ARE",
+      "ARK",
+      "ART",
+      "EAR",
+      "KAE",
+      "KEA",
+      "TAE",
+      "TAR",
+      "ARAK",
+      "AREA",
+      "KART",
+      "KATA",
+      "RAKE",
+      "RATE",
+      "TAKA",
+      "TARE",
+      "TEAK",
+      "KARAT",
+      "REATA",
+      "TAKER"
+     ],
+     "photo": "lm36"
+    },
+    {
+     "answer": "SAMURAI",
+     "hint": "Two swords and a code of honour",
+     "fact": "Samurai wore two swords: the long katana and the short wakizashi. Wearing both was a right no commoner had.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "SAMURAI",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RAMS",
+        "r": 1,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "MARS",
+        "r": 1,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ARIA",
+        "r": 1,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "RUM",
+        "r": 1,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "AIR",
+        "r": 1,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "AIMS",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "AIM",
+        "r": 4,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "ARM",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AAS",
+      "AIS",
+      "AMU",
+      "ISM",
+      "MAR",
+      "MIS",
+      "RAM",
+      "RIA",
+      "RIM",
+      "SAU",
+      "SIR",
+      "SRI",
+      "SUM",
+      "AIRS",
+      "AMAS",
+      "AMIA",
+      "AMIR",
+      "AMIS",
+      "AMUS",
+      "ARMS",
+      "ARUM",
+      "AURA",
+      "MAAR",
+      "MAIR",
+      "MIRS",
+      "MURA",
+      "RAIA",
+      "RAMI",
+      "RIAS",
+      "RIMS",
+      "RUMS",
+      "SARI",
+      "SIMA",
+      "SURA",
+      "URSA",
+      "AMIAS",
+      "AMIRS",
+      "ARIAS",
+      "ARUMS",
+      "AURAS",
+      "AURIS",
+      "MAARS",
+      "MAIRS",
+      "MURAS",
+      "RAIAS",
+      "RAMUS",
+      "SIMAR",
+      "AMUSIA",
+      "ASARUM"
+     ],
+     "photo": "lm8"
+    },
+    {
+     "answer": "DRAGON",
+     "hint": "Guardian of the temple ceiling",
+     "fact": "Kyoto's Kennin-ji has twin dragons painted across its ceiling. Legend says a dragon painted with eyes will fly away.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "DRAGON",
+        "r": 4,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "GRAND",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "DRAG",
+        "r": 1,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "ORGAN",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "ROAD",
+        "r": 1,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "NAG",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RAG",
+        "r": 2,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "RAN",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "NOR",
+        "r": 0,
+        "c": 6,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ADO",
+      "AGO",
+      "AND",
+      "DOG",
+      "DON",
+      "DOR",
+      "GAD",
+      "GAR",
+      "GOA",
+      "GOD",
+      "GOR",
+      "NOD",
+      "NOG",
+      "OAR",
+      "RAD",
+      "ROD",
+      "AGON",
+      "DAGO",
+      "DANG",
+      "DONA",
+      "GNAR",
+      "GOAD",
+      "GRAD",
+      "GRAN",
+      "NARD",
+      "ORAD",
+      "RANG",
+      "ROAN",
+      "ADORN",
+      "ARGON",
+      "DONGA",
+      "GONAD",
+      "GROAN",
+      "ORANG",
+      "RADON"
+     ],
+     "photo": "lm11"
+    },
+    {
+     "answer": "VOLCANO",
+     "hint": "Japan has over 100 that still breathe",
+     "fact": "Japan has about 110 active volcanoes, a tenth of the world's total. Mount Fuji last erupted in 1707.",
+     "grid": {
+      "w": 7,
+      "h": 8,
+      "words": [
+       {
+        "w": "VOLCANO",
+        "r": 5,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "COLON",
+        "r": 3,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "COLA",
+        "r": 4,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "VOCAL",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "LOAN",
+        "r": 3,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "NOVA",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "CLAN",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "VAN",
+        "r": 5,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "OVAL",
+        "r": 1,
+        "c": 3,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AVO",
+      "CAN",
+      "COO",
+      "LAV",
+      "LOO",
+      "NOO",
+      "OCA",
+      "OVA",
+      "CALO",
+      "CLON",
+      "COAL",
+      "COOL",
+      "LOCA",
+      "LOCO",
+      "LOON",
+      "NOLO"
+     ],
+     "photo": "lm4"
+    },
+    {
+     "answer": "HARBOR",
+     "hint": "Where the black ships came in",
+     "fact": "Commodore Perry's black ships sailed into Edo Bay in 1853. Within 15 years the shogunate had fallen.",
+     "grid": {
+      "w": 6,
+      "h": 5,
+      "words": [
+       {
+        "w": "HARBOR",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "OAR",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ARBOR",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "ORB",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "BRA",
+        "r": 0,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "ROB",
+        "r": 2,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "BAR",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ABO",
+      "ARB",
+      "BAH",
+      "BRO",
+      "BRR",
+      "HAO",
+      "HOB",
+      "RAH",
+      "RHO",
+      "BOAR",
+      "BORA",
+      "HOAR",
+      "HORA",
+      "ORRA",
+      "ROAR",
+      "ABHOR"
+     ],
+     "photo": "lm32"
+    },
+    {
+     "answer": "EMPEROR",
+     "hint": "The oldest throne on Earth",
+     "fact": "Japan's imperial line is the oldest continuous monarchy in the world. Emperor Naruhito is counted as the 126th.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "EMPEROR",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "MORE",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "ROPE",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "PRO",
+        "r": 0,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "MERE",
+        "r": 1,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "MOP",
+        "r": 0,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "PEER",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "ROE",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "PER",
+        "r": 4,
+        "c": 3,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "EME",
+      "ERE",
+      "ERR",
+      "MOR",
+      "OPE",
+      "ORE",
+      "PEE",
+      "POM",
+      "REE",
+      "REP",
+      "MOPE",
+      "OMER",
+      "PERM",
+      "POEM",
+      "POME",
+      "PORE",
+      "PREE",
+      "PROM",
+      "REPO",
+      "ROMP",
+      "MERER",
+      "MOPER",
+      "ORMER",
+      "PROEM",
+      "REPRO",
+      "ROPER",
+      "ROMPER"
+     ],
+     "photo": "lm34"
+    },
+    {
+     "answer": "SHOGUN",
+     "hint": "The general who really ruled",
+     "fact": "For nearly 700 years the shogun ran Japan while the emperor stayed in Kyoto. The last one stepped down in 1867.",
+     "grid": {
+      "w": 6,
+      "h": 8,
+      "words": [
+       {
+        "w": "SHOGUN",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SONG",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "HUG",
+        "r": 3,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "SUNG",
+        "r": 1,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "NOUS",
+        "r": 1,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "HUNS",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "GUNS",
+        "r": 5,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "SON",
+        "r": 5,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "SUN",
+        "r": 7,
+        "c": 2,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "GUN",
+      "HOG",
+      "NOG",
+      "NOH",
+      "NUS",
+      "OHS",
+      "SOU",
+      "UGH",
+      "UNS",
+      "GNUS",
+      "GOSH",
+      "GUSH",
+      "HOGS",
+      "HONS",
+      "HUGS",
+      "HUNG",
+      "NOGS",
+      "NOSH",
+      "ONUS",
+      "SHOG",
+      "SHUN",
+      "SNOG",
+      "SNUG",
+      "SUGH",
+      "UGHS",
+      "HONGS",
+      "SOUGH"
+     ],
+     "photo": "lm20"
+    },
+    {
+     "answer": "MATCHA",
+     "hint": "Green tea whisked to foam",
+     "fact": "Matcha is whole tea leaves ground to powder. One bowl holds the caffeine of a coffee and the ritual of a ceremony.",
+     "grid": {
+      "w": 6,
+      "h": 7,
+      "words": [
+       {
+        "w": "MATCHA",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "CHAT",
+        "r": 1,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "MATH",
+        "r": 4,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "MATCH",
+        "r": 2,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "MAT",
+        "r": 4,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "ACT",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "HAM",
+        "r": 4,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "CAT",
+        "r": 0,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "HAT",
+        "r": 6,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AAH",
+      "AHA",
+      "CAM",
+      "MAC",
+      "TAM",
+      "AMAH",
+      "ATMA",
+      "CHAM",
+      "TACH"
+     ],
+     "photo": "lm21"
+    },
+    {
+     "answer": "ORIGAMI",
+     "hint": "One sheet, no scissors",
+     "fact": "True origami uses one square sheet with no cuts or glue. A thousand paper cranes is a wish for recovery.",
+     "grid": {
+      "w": 8,
+      "h": 5,
+      "words": [
+       {
+        "w": "ORIGAMI",
+        "r": 2,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "AIR",
+        "r": 2,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "ARM",
+        "r": 4,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "RIG",
+        "r": 2,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "RIM",
+        "r": 1,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "AGO",
+        "r": 0,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "OAR",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RAG",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "RAM",
+        "r": 0,
+        "c": 4,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AIM",
+      "GAR",
+      "GOA",
+      "GOR",
+      "MAR",
+      "MIG",
+      "MOA",
+      "MOG",
+      "MOR",
+      "RIA",
+      "AGIO",
+      "AMIR",
+      "GIRO",
+      "GRAM",
+      "GRIM",
+      "MAGI",
+      "MAIR",
+      "MIRI",
+      "MORA",
+      "OGAM",
+      "RAGI",
+      "RAMI",
+      "ROAM",
+      "AMIGO",
+      "IMAGO",
+      "MOIRA",
+      "MOIRAI"
+     ],
+     "photo": "lm17"
+    },
+    {
+     "answer": "TEMPURA",
+     "hint": "Batter that came with the Portuguese",
+     "fact": "Tempura arrived with Portuguese missionaries in the 1500s. The name likely comes from the Latin for the fasting seasons.",
+     "grid": {
+      "w": 9,
+      "h": 6,
+      "words": [
+       {
+        "w": "TEMPURA",
+        "r": 3,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "TRUMP",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "META",
+        "r": 1,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "TRAP",
+        "r": 1,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "MATURE",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "ART",
+        "r": 1,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "PET",
+        "r": 5,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "ARM",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "EAR",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AMP",
+      "AMU",
+      "APE",
+      "APT",
+      "ARE",
+      "ATE",
+      "EAT",
+      "EMU",
+      "ERA",
+      "MAP",
+      "MAR",
+      "MAT",
+      "MET",
+      "MUT",
+      "PAM",
+      "PAR",
+      "PAT",
+      "PEA",
+      "PER",
+      "PUR",
+      "PUT",
+      "RAM",
+      "RAP",
+      "RAT",
+      "REP",
+      "RUE",
+      "RUM",
+      "RUT",
+      "TAE",
+      "TAM",
+      "TAP",
+      "TAR",
+      "TAU",
+      "TEA",
+      "TUP",
+      "UMP",
+      "UTA",
+      "APER",
+      "ARUM",
+      "MARE",
+      "MART",
+      "MATE",
+      "MAUT",
+      "MEAT",
+      "MURA",
+      "MURE",
+      "MUTE",
+      "PARE",
+      "PART",
+      "PATE",
+      "PEAR",
+      "PEAT",
+      "PERM",
+      "PERT",
+      "PRAM",
+      "PRAT",
+      "PRAU",
+      "PUMA",
+      "PURE",
+      "RAMP",
+      "RAPT",
+      "RATE",
+      "REAM",
+      "REAP",
+      "RUMP",
+      "TAME",
+      "TAMP",
+      "TAPE",
+      "TARE",
+      "TARP",
+      "TEAM",
+      "TEAR",
+      "TEMP",
+      "TEPA",
+      "TERM",
+      "TRAM",
+      "TRUE",
+      "TUMP",
+      "UREA",
+      "APTER",
+      "ARMET",
+      "ERUPT",
+      "MATER",
+      "MUTER",
+      "PAREU",
+      "PATER",
+      "PEART",
+      "PRATE",
+      "PRUTA",
+      "RAMET",
+      "REMAP",
+      "TAMER",
+      "TAPER",
+      "TAUPE",
+      "TRAMP",
+      "URATE",
+      "TAMPER",
+      "UPRATE",
+      "UPTEAR"
+     ],
+     "photo": "lm7"
+    },
+    {
+     "answer": "KARAOKE",
+     "hint": "Empty orchestra",
+     "fact": "Karaoke means \"empty orchestra\". The first machine was built in Kobe in 1971 by a musician who never patented it.",
+     "grid": {
+      "w": 7,
+      "h": 5,
+      "words": [
+       {
+        "w": "KARAOKE",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "EAR",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "ARK",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "ERA",
+        "r": 2,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "RAKE",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "ROE",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AREA",
+        "r": 4,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "OAR",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "OAK",
+        "r": 0,
+        "c": 4,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ARE",
+      "KAE",
+      "KEA",
+      "KOA",
+      "KOR",
+      "OKA",
+      "OKE",
+      "ORE",
+      "ARAK",
+      "KAKA",
+      "KORE",
+      "OKRA"
+     ],
+     "photo": "lm43"
+    },
+    {
+     "answer": "TSUNAMI",
+     "hint": "Harbour wave",
+     "fact": "Tsunami is Japanese for \"harbour wave\". The word entered English after the 1896 Sanriku wave.",
+     "grid": {
+      "w": 9,
+      "h": 6,
+      "words": [
+       {
+        "w": "TSUNAMI",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AUTISM",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "SATIN",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "STAIN",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "AIMS",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "AIM",
+        "r": 0,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "MANS",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "MAN",
+        "r": 2,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "SIN",
+        "r": 4,
+        "c": 2,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AIN",
+      "AIS",
+      "AIT",
+      "AMU",
+      "ANI",
+      "ANT",
+      "ISM",
+      "ITS",
+      "MAT",
+      "MIS",
+      "MUN",
+      "MUT",
+      "NIM",
+      "NIT",
+      "NUS",
+      "NUT",
+      "SAT",
+      "SAU",
+      "SIT",
+      "SUM",
+      "SUN",
+      "TAM",
+      "TAN",
+      "TAU",
+      "TIN",
+      "TIS",
+      "TUI",
+      "TUN",
+      "UNS",
+      "UTA",
+      "UTS",
+      "AINS",
+      "AITS",
+      "AMIN",
+      "AMIS",
+      "AMUS",
+      "ANIS",
+      "ANTS",
+      "ANUS",
+      "AUNT",
+      "MAIN",
+      "MAST",
+      "MATS",
+      "MAUN",
+      "MAUT",
+      "MINA",
+      "MINT",
+      "MIST",
+      "MUNI",
+      "MUNS",
+      "MUST",
+      "MUTS",
+      "NIMS",
+      "NITS",
+      "NUTS",
+      "SAIN",
+      "SATI",
+      "SIMA",
+      "SMIT",
+      "SMUT",
+      "SNIT",
+      "STUM",
+      "STUN",
+      "SUIT",
+      "TAIN",
+      "TAMS",
+      "TAUS",
+      "TINS",
+      "TUIS",
+      "TUNA",
+      "TUNS",
+      "UNAI",
+      "UNIT",
+      "UTAS",
+      "AMINS",
+      "ANTIS",
+      "AUNTS",
+      "MAINS",
+      "MAIST",
+      "MANUS",
+      "MATIN",
+      "MAUTS",
+      "MINAS",
+      "MINTS",
+      "MINUS",
+      "MUNIS",
+      "SAINT",
+      "SUINT",
+      "TAINS",
+      "TAMIS",
+      "TUNAS",
+      "UNAIS",
+      "UNITS",
+      "ANIMUS",
+      "MANITU",
+      "MANTIS",
+      "MATINS",
+      "MANITUS"
+     ],
+     "photo": "lm40"
+    },
+    {
+     "answer": "TYPHOON",
+     "hint": "The autumn storm season",
+     "fact": "Japan sees about 25 typhoons a year. The 1281 typhoon that wrecked a Mongol fleet gave the world the word kamikaze.",
+     "grid": {
+      "w": 9,
+      "h": 6,
+      "words": [
+       {
+        "w": "TYPHOON",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "PYTHON",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "PHOTON",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "PHOTO",
+        "r": 1,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "TONY",
+        "r": 5,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "TOON",
+        "r": 4,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "TOP",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "HOT",
+        "r": 3,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "OPT",
+        "r": 0,
+        "c": 6,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "HOP",
+      "HOY",
+      "HYP",
+      "NOH",
+      "NOO",
+      "NOT",
+      "NTH",
+      "OHO",
+      "OOH",
+      "OOT",
+      "PHT",
+      "POH",
+      "POT",
+      "THY",
+      "TON",
+      "TOO",
+      "TOY",
+      "YON",
+      "HOOP",
+      "HOOT",
+      "HYPO",
+      "ONTO",
+      "PHON",
+      "PHOT",
+      "PONY",
+      "POOH",
+      "POON",
+      "TOPH",
+      "TOYO",
+      "TYPO",
+      "HOOTY",
+      "PHONO",
+      "PHONY",
+      "TOYON",
+      "PHYTON",
+      "TYPHON"
+     ],
+     "photo": "lm25"
+    },
+    {
+     "answer": "SENSEI",
+     "hint": "The one who was born before",
+     "fact": "Sensei literally means \"one born earlier\". It is used for teachers, doctors, lawyers and manga artists alike.",
+     "grid": {
+      "w": 8,
+      "h": 5,
+      "words": [
+       {
+        "w": "SENSEI",
+        "r": 4,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "SENSE",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "SEES",
+        "r": 1,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "SIN",
+        "r": 1,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "SEEN",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SINS",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SEE",
+        "r": 2,
+        "c": 0,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ENS",
+      "NEE",
+      "SEI",
+      "ESES",
+      "SEIS",
+      "SENE",
+      "SINE",
+      "SEINE",
+      "SEISE",
+      "SINES",
+      "SEINES"
+     ],
+     "photo": "lm26"
+    },
+    {
+     "answer": "SASHIMI",
+     "hint": "Sliced, not rolled",
+     "fact": "Sashimi is raw fish without rice. At Tokyo's Toyosu market a single bluefin tuna has sold for over two million dollars.",
+     "grid": {
+      "w": 7,
+      "h": 6,
+      "words": [
+       {
+        "w": "SASHIMI",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "SMASH",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "AIMS",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "MASS",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "ASH",
+        "r": 3,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "HAS",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "MISS",
+        "r": 2,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "HIS",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AIM",
+        "r": 3,
+        "c": 4,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AIS",
+      "HAM",
+      "HIM",
+      "ISM",
+      "MIS",
+      "AMIS",
+      "HAMS",
+      "HISS",
+      "ISMS",
+      "MASH",
+      "SASH",
+      "SHAM",
+      "SHIM",
+      "SIMA",
+      "AMISS",
+      "SHAMS",
+      "SHIMS",
+      "SIMAS"
+     ],
+     "photo": "lm6"
+    },
+    {
+     "answer": "MIKADO",
+     "hint": "An old word for the emperor",
+     "fact": "Mikado was a poetic name for the emperor. It also named the pick-up-sticks game and a famous comic opera.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "MIKADO",
+        "r": 2,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "KID",
+        "r": 2,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "OAK",
+        "r": 2,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "AID",
+        "r": 4,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "DAM",
+        "r": 0,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "MAD",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "AIM",
+        "r": 0,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "MAID",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "ADO",
+        "r": 0,
+        "c": 1,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "DAK",
+      "DIM",
+      "KOA",
+      "KOI",
+      "MID",
+      "MOA",
+      "OKA",
+      "AMID",
+      "AMOK",
+      "KADI",
+      "KAMI",
+      "MAKO",
+      "MODI",
+      "AMIDO"
+     ],
+     "photo": "lm16"
+    },
+    {
+     "answer": "SAPPORO",
+     "hint": "Snow festival and beer",
+     "fact": "Sapporo's Snow Festival builds ice sculptures the size of buildings every February. The beer has brewed here since 1876.",
+     "grid": {
+      "w": 8,
+      "h": 6,
+      "words": [
+       {
+        "w": "SAPPORO",
+        "r": 0,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "SOAR",
+        "r": 0,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "POPS",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "POOR",
+        "r": 2,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "OOPS",
+        "r": 2,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "PROPS",
+        "r": 3,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "POP",
+        "r": 3,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "PROP",
+        "r": 5,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "OAR",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ASP",
+      "OPS",
+      "ORS",
+      "PAP",
+      "PAR",
+      "PAS",
+      "PRO",
+      "RAP",
+      "SAP",
+      "SOP",
+      "SPA",
+      "OARS",
+      "OSAR",
+      "PAPS",
+      "PARS",
+      "POOP",
+      "PRAO",
+      "PROA",
+      "PROS",
+      "RAPS",
+      "RASP",
+      "SOAP",
+      "SORA",
+      "SPAR",
+      "POOPS",
+      "PRAOS",
+      "PROAS",
+      "PROSO",
+      "SAPOR",
+      "SOPOR",
+      "SPOOR",
+      "APROPOS"
+     ],
+     "photo": "lm35"
+    },
+    {
+     "answer": "OKINAWA",
+     "hint": "Islands of the long-lived",
+     "fact": "Okinawa has one of the highest shares of people over 100 in the world. Its secret is said to be sweet potato and purpose.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "OKINAWA",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "KNOW",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "OWN",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "INK",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "WOK",
+        "r": 0,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "OAK",
+        "r": 1,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "WON",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "WINK",
+        "r": 1,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "AKIN",
+        "r": 4,
+        "c": 3,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AIN",
+      "ANI",
+      "AWA",
+      "AWN",
+      "ION",
+      "KOA",
+      "KOI",
+      "NAW",
+      "NOW",
+      "OKA",
+      "WAN",
+      "WIN",
+      "ANOA",
+      "IKON",
+      "KAIN",
+      "KANA",
+      "KAON",
+      "KINA",
+      "KINO",
+      "KOAN",
+      "NAOI",
+      "OINK",
+      "WAIN",
+      "WINO",
+      "WONK"
+     ],
+     "photo": "lm24"
+    },
+    {
+     "answer": "DAIMYO",
+     "hint": "Lords of the domains",
+     "fact": "Daimyo were regional lords under the shogun. They had to spend every other year in Edo, which kept them loyal and broke.",
+     "grid": {
+      "w": 8,
+      "h": 5,
+      "words": [
+       {
+        "w": "DAIMYO",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "MAID",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "AID",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "YAM",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ADO",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "DIM",
+        "r": 1,
+        "c": 5,
+        "d": "h"
+       },
+       {
+        "w": "AMID",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "MAD",
+        "r": 4,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "AIM",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "DAM",
+      "DAY",
+      "MAY",
+      "MID",
+      "MOA",
+      "YID",
+      "YOD",
+      "YOM",
+      "MODI",
+      "AMIDO",
+      "MYOID"
+     ],
+     "photo": "lm9"
+    },
+    {
+     "answer": "SHINTO",
+     "hint": "The way of the gods",
+     "fact": "Shinto is Japan's native faith with no founder and no scripture. Eight million kami live in mountains, trees and rivers.",
+     "grid": {
+      "w": 6,
+      "h": 8,
+      "words": [
+       {
+        "w": "SHINTO",
+        "r": 6,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "THIS",
+        "r": 4,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "INTO",
+        "r": 4,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "IONS",
+        "r": 3,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "THIN",
+        "r": 4,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "SON",
+        "r": 2,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "TONS",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "HOT",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "HIST",
+        "r": 0,
+        "c": 2,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "HIN",
+      "HIS",
+      "HIT",
+      "ION",
+      "ITS",
+      "NIT",
+      "NOH",
+      "NOT",
+      "NTH",
+      "OHS",
+      "SIN",
+      "SIT",
+      "SOT",
+      "TIN",
+      "TIS",
+      "TON",
+      "HINS",
+      "HINT",
+      "HISN",
+      "HITS",
+      "HONS",
+      "HOST",
+      "HOTS",
+      "NITS",
+      "NOSH",
+      "SHIN",
+      "SHOT",
+      "SINH",
+      "SNIT",
+      "SNOT",
+      "SOTH",
+      "THIO",
+      "TINS",
+      "TOSH",
+      "HINTS",
+      "HOIST",
+      "THINS",
+      "TONISH"
+     ],
+     "photo": "lm23"
+    },
+    {
+     "answer": "IKEBANA",
+     "hint": "Flowers with empty space",
+     "fact": "Ikebana is the art of flower arranging. Empty space matters as much as the stems, and each arrangement suggests a season.",
+     "grid": {
+      "w": 7,
+      "h": 7,
+      "words": [
+       {
+        "w": "IKEBANA",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "BAKE",
+        "r": 1,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "BANK",
+        "r": 2,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "BIKE",
+        "r": 3,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "BEAN",
+        "r": 2,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "BAN",
+        "r": 4,
+        "c": 3,
+        "d": "v"
+       },
+       {
+        "w": "NAB",
+        "r": 6,
+        "c": 3,
+        "d": "h"
+       },
+       {
+        "w": "INK",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "BIN",
+        "r": 0,
+        "c": 3,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "AIN",
+      "ANE",
+      "ANI",
+      "BAA",
+      "BEN",
+      "KAB",
+      "KAE",
+      "KEA",
+      "NAE",
+      "NEB",
+      "AKIN",
+      "BANE",
+      "BANI",
+      "BEAK",
+      "BINE",
+      "KAIN",
+      "KANA",
+      "KIBE",
+      "KINA",
+      "KINE",
+      "NABE"
+     ],
+     "photo": "lm27"
+    },
+    {
+     "answer": "KOTATSU",
+     "hint": "A heated table with a blanket",
+     "fact": "A kotatsu is a low table with a heater under it and a quilt over it. Winter in Japan is spent with your legs inside one.",
+     "grid": {
+      "w": 7,
+      "h": 7,
+      "words": [
+       {
+        "w": "KOTATSU",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AUTOS",
+        "r": 2,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "TOAST",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "TASK",
+        "r": 6,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "STOUT",
+        "r": 1,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "SOAK",
+        "r": 1,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "OUT",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "OAT",
+        "r": 0,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "TOT",
+        "r": 4,
+        "c": 2,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ASK",
+      "AUK",
+      "KAS",
+      "KOA",
+      "OAK",
+      "OKA",
+      "SAT",
+      "SAU",
+      "SKA",
+      "SOT",
+      "SOU",
+      "TAT",
+      "TAU",
+      "TSK",
+      "TUT",
+      "UTA",
+      "UTS",
+      "AUKS",
+      "AUTO",
+      "KATS",
+      "KOAS",
+      "OAKS",
+      "OAST",
+      "OATS",
+      "OKAS",
+      "OUST",
+      "OUTS",
+      "SKAT",
+      "SKUA",
+      "SOUK",
+      "STAT",
+      "STOA",
+      "TAOS",
+      "TATS",
+      "TAUS",
+      "TAUT",
+      "TOST",
+      "TOTS",
+      "TOUT",
+      "TUSK",
+      "TUTS",
+      "UTAS",
+      "STOAT",
+      "SUTTA",
+      "TAUTS",
+      "TOUTS",
+      "OUTASK",
+      "OUTSAT",
+      "OUTTASK"
+     ],
+     "photo": "lm13"
+    },
+    {
+     "answer": "NARITA",
+     "hint": "Tokyo's gateway from abroad",
+     "fact": "Narita airport opened in 1978 after years of farmer protests. One holdout farm still sits inside the airport grounds.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "NARITA",
+        "r": 2,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "TRAIN",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "ARIA",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "ANT",
+        "r": 0,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "NIT",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "RANT",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "AIR",
+        "r": 2,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "RAN",
+        "r": 4,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "RAIN",
+        "r": 1,
+        "c": 8,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AIN",
+      "AIT",
+      "ANI",
+      "ART",
+      "RAT",
+      "RIA",
+      "RIN",
+      "TAN",
+      "TAR",
+      "TIN",
+      "AIRN",
+      "AIRT",
+      "ANTA",
+      "RAIA",
+      "RANI",
+      "TAIN",
+      "TARN",
+      "ANTRA",
+      "ATRIA",
+      "NAIRA",
+      "RATAN",
+      "RIANT",
+      "RIATA",
+      "TIARA",
+      "ANTIAR"
+     ],
+     "photo": "lm3"
+    }
+   ],
+   "pass": [
+    {
+     "tier": 1,
+     "xp": 200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 20
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ]
+    },
+    {
+     "tier": 2,
+     "xp": 400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 20
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ]
+    },
+    {
+     "tier": 3,
+     "xp": 600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 35
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ]
+    },
+    {
+     "tier": 4,
+     "xp": 800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 20
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ]
+    },
+    {
+     "tier": 5,
+     "xp": 1000,
+     "free": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 20
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 70
+      }
+     ]
+    },
+    {
+     "tier": 6,
+     "xp": 1200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 25
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 50
+      }
+     ]
+    },
+    {
+     "tier": 7,
+     "xp": 1400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 25
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 50
+      }
+     ]
+    },
+    {
+     "tier": 8,
+     "xp": 1600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 50
+      }
+     ]
+    },
+    {
+     "tier": 9,
+     "xp": 1800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 25
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 50
+      }
+     ]
+    },
+    {
+     "tier": 10,
+     "xp": 2000,
+     "free": [
+      {
+       "kind": "practice"
+      },
+      {
+       "kind": "miles",
+       "amount": 45
+      }
+     ],
+     "pro": [
+      {
+       "kind": "practice"
+      },
+      {
+       "kind": "miles",
+       "amount": 90
+      }
+     ]
+    },
+    {
+     "tier": 11,
+     "xp": 2200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 30
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 60
+      }
+     ]
+    },
+    {
+     "tier": 12,
+     "xp": 2400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 30
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 90
+      }
+     ]
+    },
+    {
+     "tier": 13,
+     "xp": 2600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 45
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 60
+      }
+     ]
+    },
+    {
+     "tier": 14,
+     "xp": 2800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 30
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 60
+      }
+     ]
+    },
+    {
+     "tier": 15,
+     "xp": 3000,
+     "free": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 30
+      }
+     ],
+     "pro": [
+      {
+       "kind": "card",
+       "key": "lm2"
+      },
+      {
+       "kind": "miles",
+       "amount": 60
+      }
+     ]
+    },
+    {
+     "tier": 16,
+     "xp": 3200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 35
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 70
+      }
+     ]
+    },
+    {
+     "tier": 17,
+     "xp": 3400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 35
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 70
+      }
+     ]
+    },
+    {
+     "tier": 18,
+     "xp": 3600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 50
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 70
+      }
+     ]
+    },
+    {
+     "tier": 19,
+     "xp": 3800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 35
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 100
+      }
+     ]
+    },
+    {
+     "tier": 20,
+     "xp": 4000,
+     "free": [
+      {
+       "kind": "practice"
+      },
+      {
+       "kind": "miles",
+       "amount": 55
+      }
+     ],
+     "pro": [
+      {
+       "kind": "practice"
+      },
+      {
+       "kind": "miles",
+       "amount": 110
+      }
+     ]
+    },
+    {
+     "tier": 21,
+     "xp": 4200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 80
+      }
+     ]
+    },
+    {
+     "tier": 22,
+     "xp": 4400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 80
+      }
+     ]
+    },
+    {
+     "tier": 23,
+     "xp": 4600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 55
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 80
+      }
+     ]
+    },
+    {
+     "tier": 24,
+     "xp": 4800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 80
+      }
+     ]
+    },
+    {
+     "tier": 25,
+     "xp": 5000,
+     "free": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 40
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 80
+      }
+     ]
+    },
+    {
+     "tier": 26,
+     "xp": 5200,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 45
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 120
+      }
+     ]
+    },
+    {
+     "tier": 27,
+     "xp": 5400,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 45
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 90
+      }
+     ]
+    },
+    {
+     "tier": 28,
+     "xp": 5600,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 60
+      }
+     ],
+     "pro": [
+      {
+       "kind": "envelope"
+      },
+      {
+       "kind": "miles",
+       "amount": 90
+      }
+     ]
+    },
+    {
+     "tier": 29,
+     "xp": 5800,
+     "free": [
+      {
+       "kind": "miles",
+       "amount": 45
+      }
+     ],
+     "pro": [
+      {
+       "kind": "miles",
+       "amount": 90
+      }
+     ]
+    },
+    {
+     "tier": 30,
+     "xp": 6000,
+     "free": [
+      {
+       "kind": "card",
+       "key": "lm5"
+      },
+      {
+       "kind": "miles",
+       "amount": 95
+      }
+     ],
+     "pro": [
+      {
+       "kind": "card",
+       "key": "lm4"
+      },
+      {
+       "kind": "outfit",
+       "name": "japan"
+      },
+      {
+       "kind": "miles",
+       "amount": 190
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
