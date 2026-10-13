@@ -10,6 +10,13 @@
    "tagline": "Word puzzles from Sapporo to Okinawa.",
    "outfit": "japan",
    "theme": "sakura",
+   "puzzles": [
+    "lm15",
+    "lm37",
+    "lm0",
+    "lm30"
+   ],
+   "puzzle": "lm15",
    "stops": [
     {
      "answer": "BONSAI",
@@ -3158,7 +3165,444 @@
       "TIARA",
       "ANTIAR"
      ],
+     "photo": "lm29"
+    },
+    {
+     "answer": "SHIBUYA",
+     "hint": "The busiest crossing on Earth",
+     "fact": "Up to 3,000 people cross Shibuya's scramble at every green light. Hachikō the loyal dog waited outside the station here for nine years.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "SHIBUYA",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "BUYS",
+        "r": 1,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "HUBS",
+        "r": 4,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "BUSY",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "BAYS",
+        "r": 1,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "BUSH",
+        "r": 0,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "BUS",
+        "r": 1,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "ASH",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "SUB",
+        "r": 4,
+        "c": 6,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ABS",
+      "ABY",
+      "AIS",
+      "AYS",
+      "BAH",
+      "BAY",
+      "BUY",
+      "BYS",
+      "HAS",
+      "HAY",
+      "HIS",
+      "HUB",
+      "SAB",
+      "SAU",
+      "SAY",
+      "SHY",
+      "SIB",
+      "YAH",
+      "ABYS",
+      "ASHY",
+      "BASH",
+      "BIAS",
+      "HABU",
+      "HAYS",
+      "ISBA",
+      "SHAY",
+      "SUBA",
+      "BUSHY",
+      "HABUS",
+      "SAHIB",
+      "SUBAH"
+     ],
      "photo": "lm3"
+    },
+    {
+     "answer": "RYOKAN",
+     "hint": "An inn with futons and a bath",
+     "fact": "A ryokan is a traditional inn: tatami floors, a futon laid out at night and a hot bath. One in Yamanashi has taken guests since the year 705.",
+     "grid": {
+      "w": 9,
+      "h": 4,
+      "words": [
+       {
+        "w": "RYOKAN",
+        "r": 3,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "RANK",
+        "r": 0,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "OKAY",
+        "r": 0,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "RAN",
+        "r": 1,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "ARK",
+        "r": 1,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "OAK",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "RAY",
+        "r": 1,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "YAK",
+        "r": 1,
+        "c": 8,
+        "d": "v"
+       },
+       {
+        "w": "OAR",
+        "r": 0,
+        "c": 2,
+        "d": "h"
+       }
+      ]
+     },
+     "bonus": [
+      "ANY",
+      "KAY",
+      "KOA",
+      "KOR",
+      "NAY",
+      "NOR",
+      "OKA",
+      "RYA",
+      "YAR",
+      "YOK",
+      "YON",
+      "KAON",
+      "KARN",
+      "KAYO",
+      "KNAR",
+      "KOAN",
+      "KYAR",
+      "NARK",
+      "NARY",
+      "OKRA",
+      "ROAN",
+      "YANK",
+      "YARN",
+      "KRONA",
+      "NARKY",
+      "RAYON"
+     ],
+     "photo": "lm31"
+    },
+    {
+     "answer": "KITSUNE",
+     "hint": "The fox that guards the shrine",
+     "fact": "Kitsune, the fox, is the messenger of Inari. Thousands of fox statues guard Inari shrines, many with the key to the rice store in their mouths.",
+     "grid": {
+      "w": 7,
+      "h": 8,
+      "words": [
+       {
+        "w": "KITSUNE",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "STEIN",
+        "r": 0,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "TUNES",
+        "r": 0,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "KITE",
+        "r": 2,
+        "c": 2,
+        "d": "h"
+       },
+       {
+        "w": "SKIN",
+        "r": 3,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "TUNE",
+        "r": 4,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "UNIT",
+        "r": 4,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "KENT",
+        "r": 7,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "ITS",
+        "r": 2,
+        "c": 3,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "ENS",
+      "INK",
+      "KIT",
+      "KUE",
+      "NET",
+      "NIT",
+      "NUS",
+      "NUT",
+      "SEI",
+      "SET",
+      "SIN",
+      "SIT",
+      "SKI",
+      "SUE",
+      "SUN",
+      "TEN",
+      "TIE",
+      "TIN",
+      "TIS",
+      "TSK",
+      "TUI",
+      "TUN",
+      "UKE",
+      "UNS",
+      "USE",
+      "UTS",
+      "ETUI",
+      "INKS",
+      "KENS",
+      "KINE",
+      "KINS",
+      "KIST",
+      "KITS",
+      "KNIT",
+      "KUES",
+      "NEST",
+      "NETS",
+      "NEUK",
+      "NITE",
+      "NITS",
+      "NUKE",
+      "NUTS",
+      "SENT",
+      "SIKE",
+      "SINE",
+      "SINK",
+      "SITE",
+      "SKIT",
+      "SNIT",
+      "STUN",
+      "SUET",
+      "SUIT",
+      "SUNK",
+      "TENS",
+      "TIES",
+      "TIKE",
+      "TINE",
+      "TINS",
+      "TUIS",
+      "TUNS",
+      "TUSK",
+      "UKES",
+      "ETUIS",
+      "INSET",
+      "KINES",
+      "KITES",
+      "KNITS",
+      "NEIST",
+      "NEUKS",
+      "NITES",
+      "NUKES",
+      "SENTI",
+      "SKEIN",
+      "SKINT",
+      "SKITE",
+      "STINK",
+      "STUNK",
+      "SUINT",
+      "SUITE",
+      "TIKES",
+      "TINES",
+      "UNITE",
+      "UNITS",
+      "UNSET",
+      "UNTIE",
+      "SUNKET",
+      "TENUIS",
+      "UNITES",
+      "UNTIES"
+     ],
+     "photo": "lm28"
+    },
+    {
+     "answer": "TANUKI",
+     "hint": "The raccoon dog by the shop door",
+     "fact": "Tanuki statues stand outside shops and restaurants with a straw hat, a sake flask and a big belly, promising good luck and good business.",
+     "grid": {
+      "w": 9,
+      "h": 5,
+      "words": [
+       {
+        "w": "TANUKI",
+        "r": 1,
+        "c": 1,
+        "d": "h"
+       },
+       {
+        "w": "AKIN",
+        "r": 1,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "UNIT",
+        "r": 1,
+        "c": 4,
+        "d": "v"
+       },
+       {
+        "w": "TUNA",
+        "r": 4,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "TAN",
+        "r": 4,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "TIN",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "NUT",
+        "r": 2,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "NIT",
+        "r": 2,
+        "c": 6,
+        "d": "h"
+       },
+       {
+        "w": "KIT",
+        "r": 0,
+        "c": 8,
+        "d": "v"
+       }
+      ]
+     },
+     "bonus": [
+      "AIN",
+      "AIT",
+      "ANI",
+      "ANT",
+      "AUK",
+      "INK",
+      "TAU",
+      "TUI",
+      "TUN",
+      "UTA",
+      "AUNT",
+      "IKAT",
+      "KAIN",
+      "KINA",
+      "KNIT",
+      "TAIN",
+      "TANK",
+      "UNAI",
+      "TAKIN"
+     ],
+     "photo": "lm38"
     }
    ],
    "pass": [
@@ -3697,8 +4141,7 @@
       }
      ]
     }
-   ],
-   "puzzle": "lm15"
+   ]
   }
  ]
 }
