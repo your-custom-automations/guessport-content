@@ -1,0 +1,36 @@
+{
+ "gifts": [
+  {
+   "id": "gift-2026-10-gf",
+   "toAliasHash": "e5c28ad9852a49287a4074ff99959743b49dc00fb5e626111031f1cf074a70b1",
+   "title": "GF Gift",
+   "from": "Peter",
+   "xp": 300,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "until": "2026-12-31"
+  },
+  {
+   "id": "gift-2026-10-bughunter",
+   "toAliasHash": "388b8766bc50913cc135487711fe9d8550e93acd3c34a20ef47cd0e2d7a55f8c",
+   "title": "Bug Hunter Gift",
+   "from": "Peter",
+   "message": "Thanks for finding the bug!",
+   "xp": 100,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "until": "2026-12-31"
+  },
+  {
+   "id": "gift-2026-10-bughunter",
+   "toAliasHash": "89a07d74ac9a5ebeeba4524e64278ba3d636005de03bc4cc6ecb7102056114a9",
+   "title": "Bug Hunter Gift",
+   "from": "Peter",
+   "message": "Thanks for finding the bug!",
+   "xp": 100,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "until": "2026-12-31"
+  }
+ ]
+}
