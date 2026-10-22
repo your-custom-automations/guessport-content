@@ -8,6 +8,26 @@
    "boostMinutes": 30,
    "boostMultiplier": 2,
    "from": "Peter"
+  },
+  {
+   "id": "bugfinder-388b8766-202610211931",
+   "toAliasHash": "388b8766bc50913cc135487711fe9d8550e93acd3c34a20ef47cd0e2d7a55f8c",
+   "title": "Bug Finder Gift",
+   "message": "Thanks for finding a bug!",
+   "xp": 100,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "from": "Peter"
+  },
+  {
+   "id": "bugfinder-388b8766-202610211931",
+   "toAliasHash": "89a07d74ac9a5ebeeba4524e64278ba3d636005de03bc4cc6ecb7102056114a9",
+   "title": "Bug Finder Gift",
+   "message": "Thanks for finding a bug!",
+   "xp": 100,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "from": "Peter"
   }
  ]
 }
