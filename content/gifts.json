@@ -28,6 +28,16 @@
    "boostMinutes": 30,
    "boostMultiplier": 2,
    "from": "Peter"
+  },
+  {
+   "id": "bugfinder-388b8766-202610211931",
+   "toAliasHash": "29599995d2c6257aae482d29df96d104117fdfd0ff1e9a7de97a55a9f55f0a88",
+   "title": "Bug Finder Gift",
+   "message": "Thanks for finding a bug!",
+   "xp": 100,
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "from": "Peter"
   }
  ]
 }
