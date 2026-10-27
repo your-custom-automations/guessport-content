@@ -18,6 +18,13 @@
    "boostMinutes": 30,
    "boostMultiplier": 2,
    "from": "Peter"
+  },
+  {
+   "id": "custom-e5c28ad9-202610271252",
+   "toAliasHash": "e5c28ad9852a49287a4074ff99959743b49dc00fb5e626111031f1cf074a70b1",
+   "title": "GF Gift",
+   "xp": 500,
+   "from": "Peter"
   }
  ]
 }
