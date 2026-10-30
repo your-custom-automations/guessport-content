@@ -25,6 +25,16 @@
    "title": "GF Gift",
    "xp": 500,
    "from": "Peter"
+  },
+  {
+   "id": "everyone-202610301141",
+   "toEveryone": true,
+   "title": "Thanks for updating!",
+   "message": "The new leagues are here. Enjoy 30 minutes of double XP.",
+   "boostMinutes": 30,
+   "boostMultiplier": 2,
+   "from": "Peter",
+   "minBuild": 36
   }
  ]
 }
