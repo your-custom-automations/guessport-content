@@ -33,7 +33,7 @@
    "message": "The new leagues are here. Enjoy 30 minutes of double XP.",
    "boostMinutes": 30,
    "boostMultiplier": 2,
-   "from": "Peter",
+   "from": "Peter, the developer",
    "minBuild": 36
   }
  ]
