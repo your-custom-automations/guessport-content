@@ -1033,7 +1033,6 @@
       "GAD",
       "GOA",
       "APOD",
-      "DAGO",
       "DOPA",
       "GOAD",
       "PAGOD"
@@ -1516,7 +1515,6 @@
       "RAD",
       "ROD",
       "AGON",
-      "DAGO",
       "DANG",
       "DONA",
       "GNAR",
@@ -2471,7 +2469,6 @@
       "AMUS",
       "ANIS",
       "ANTS",
-      "ANUS",
       "AUNT",
       "MAIN",
       "MANS",
@@ -2493,7 +2490,6 @@
       "SATI",
       "SIMA",
       "SMIT",
-      "SMUT",
       "SNIT",
       "STUM",
       "STUN",
@@ -3360,7 +3356,6 @@
       "MAY",
       "MID",
       "MOA",
-      "YID",
       "YOD",
       "YOM",
       "MODI",
@@ -6042,7 +6037,6 @@
       "GAD",
       "GOA",
       "APOD",
-      "DAGO",
       "DOPA",
       "GOAD",
       "PAGOD"
@@ -6525,7 +6519,6 @@
       "RAD",
       "ROD",
       "AGON",
-      "DAGO",
       "DANG",
       "DONA",
       "GNAR",
@@ -7480,7 +7473,6 @@
       "AMUS",
       "ANIS",
       "ANTS",
-      "ANUS",
       "AUNT",
       "MAIN",
       "MANS",
@@ -7502,7 +7494,6 @@
       "SATI",
       "SIMA",
       "SMIT",
-      "SMUT",
       "SNIT",
       "STUM",
       "STUN",
@@ -8369,7 +8360,6 @@
       "MAY",
       "MID",
       "MOA",
-      "YID",
       "YOD",
       "YOM",
       "MODI",
@@ -10778,7 +10768,6 @@
       "NERTS",
       "PEENS",
       "PEERS",
-      "PENES",
       "PERSE",
       "PETER",
       "PREEN",
@@ -11855,11 +11844,9 @@
       "VAN",
       "VIA",
       "ALAN",
-      "ANAL",
       "ANIL",
       "LAIN",
       "NILL",
-      "VAIL",
       "VIAL",
       "VILL",
       "VINA",
@@ -16027,7 +16014,6 @@
       "RUST",
       "RUTS",
       "SARD",
-      "SMUT",
       "STAR",
       "STUD",
       "STUM",
@@ -16040,7 +16026,6 @@
       "TRAD",
       "TRAM",
       "TSAR",
-      "TURD",
       "URDS",
       "URSA",
       "UTAS",
@@ -16064,7 +16049,6 @@
       "STRUM",
       "SUTRA",
       "TRAMS",
-      "TURDS",
       "DATUMS",
       "MUDRAS",
       "STRUMA",
@@ -18515,7 +18499,6 @@
       "NOO",
       "OLD",
       "AGON",
-      "DAGO",
       "DANG",
       "DONA",
       "GAOL",
@@ -19693,7 +19676,6 @@
       "VAV",
       "VIA",
       "ILIA",
-      "VAIL",
       "VIAL",
       "ILIAD",
       "LIVID"
@@ -21343,7 +21325,6 @@
       "YAM",
       "YAP",
       "YAR",
-      "YID",
       "YIP",
       "AIRY",
       "AMID",
@@ -23300,7 +23281,6 @@
       "CHAT",
       "CHIA",
       "CHIT",
-      "CIAO",
       "COIR",
       "HAIR",
       "HART",
@@ -24216,14 +24196,12 @@
       "EBON",
       "NIDE",
       "NODI",
-      "NUDE",
       "UNBE",
       "UNDE",
       "UNDO",
       "BONED",
       "DOBIE",
       "INDUE",
-      "NUDIE",
       "UNBID",
       "BEDUIN"
      ],
@@ -25942,68 +25920,67 @@
      "hint": "Dances when the rain is coming",
      "fact": "It is India's national bird. Its famous fan is not its tail but a train of long feathers growing above it, shed and regrown every year.",
      "grid": {
-      "h": 5,
-      "w": 9,
+      "w": 8,
+      "h": 6,
       "words": [
        {
-        "c": 0,
-        "d": "h",
-        "r": 2,
-        "w": "PEACOCK"
-       },
-       {
-        "c": 6,
-        "d": "v",
-        "r": 0,
-        "w": "CAKE"
-       },
-       {
-        "c": 2,
-        "d": "v",
-        "r": 0,
-        "w": "PEAK"
-       },
-       {
-        "c": 0,
-        "d": "v",
-        "r": 0,
-        "w": "CAPE"
-       },
-       {
-        "c": 4,
-        "d": "v",
-        "r": 1,
-        "w": "COKE"
-       },
-       {
-        "c": 0,
-        "d": "h",
-        "r": 0,
-        "w": "COP"
-       },
-       {
-        "c": 3,
-        "d": "h",
+        "w": "PEACOCK",
         "r": 4,
-        "w": "PEA"
+        "c": 0,
+        "d": "h"
        },
        {
+        "w": "CAKE",
+        "r": 2,
         "c": 6,
-        "d": "h",
-        "r": 0,
-        "w": "CAP"
+        "d": "v"
        },
        {
-        "c": 8,
-        "d": "v",
+        "w": "PEAK",
+        "r": 2,
+        "c": 2,
+        "d": "v"
+       },
+       {
+        "w": "PACE",
+        "r": 2,
+        "c": 4,
+        "d": "h"
+       },
+       {
+        "w": "COPE",
+        "r": 2,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "PEA",
         "r": 0,
-        "w": "PACK"
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "APE",
+        "r": 0,
+        "c": 7,
+        "d": "v"
+       },
+       {
+        "w": "COP",
+        "r": 2,
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "CAP",
+        "r": 0,
+        "c": 3,
+        "d": "h"
        }
       ]
      },
      "bonus": [
       "ACE",
-      "APE",
       "CEP",
       "KAE",
       "KEA",
@@ -26017,10 +25994,10 @@
       "OPE",
       "PAC",
       "PEC",
+      "CAPE",
       "CAPO",
       "CECA",
-      "COPE",
-      "PACE",
+      "PACK",
       "PECK",
       "POCK",
       "POKE",
@@ -27346,73 +27323,73 @@
      "hint": "The Koh-i-Noor is the famous one",
      "fact": "Until the 1700s India was the world's only big source of diamonds. Visitors to Hampi in the 1500s saw them sold in its open street markets.",
      "grid": {
-      "h": 7,
       "w": 7,
+      "h": 7,
       "words": [
        {
-        "c": 0,
-        "d": "h",
+        "w": "DIAMOND",
         "r": 0,
-        "w": "DIAMOND"
+        "c": 0,
+        "d": "h"
        },
        {
+        "w": "AMINO",
+        "r": 0,
         "c": 2,
-        "d": "v",
-        "r": 0,
-        "w": "AMINO"
+        "d": "v"
        },
        {
-        "c": 1,
-        "d": "h",
+        "w": "DOMAIN",
         "r": 4,
-        "w": "DOMAIN"
-       },
-       {
-        "c": 0,
-        "d": "v",
-        "r": 0,
-        "w": "DAMN"
-       },
-       {
-        "c": 5,
-        "d": "v",
-        "r": 3,
-        "w": "AIM"
-       },
-       {
-        "c": 6,
-        "d": "v",
-        "r": 0,
-        "w": "DIM"
-       },
-       {
         "c": 1,
-        "d": "v",
-        "r": 4,
-        "w": "DID"
+        "d": "h"
        },
        {
-        "c": 0,
-        "d": "h",
-        "r": 6,
-        "w": "ADD"
-       },
-       {
-        "c": 0,
-        "d": "h",
+        "w": "MAID",
         "r": 2,
-        "w": "MAID"
+        "c": 0,
+        "d": "h"
+       },
+       {
+        "w": "DID",
+        "r": 0,
+        "c": 6,
+        "d": "v"
+       },
+       {
+        "w": "AIM",
+        "r": 3,
+        "c": 5,
+        "d": "v"
+       },
+       {
+        "w": "DAM",
+        "r": 0,
+        "c": 0,
+        "d": "v"
+       },
+       {
+        "w": "DIM",
+        "r": 4,
+        "c": 1,
+        "d": "v"
+       },
+       {
+        "w": "AMID",
+        "r": 6,
+        "c": 0,
+        "d": "h"
        }
       ]
      },
      "bonus": [
+      "ADD",
       "ADO",
       "AID",
       "AIN",
       "AND",
       "ANI",
       "DAD",
-      "DAM",
       "DIN",
       "DON",
       "ION",
@@ -27423,7 +27400,6 @@
       "NIM",
       "NOD",
       "ODD",
-      "AMID",
       "AMIN",
       "DADO",
       "DIDO",
