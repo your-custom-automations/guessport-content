@@ -1,12 +1,12 @@
 {
- "version": "2026.10.26.0736",
- "photosBase": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/photos",
+ "version": "2026.11.03.1502",
+ "photosBase": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/photos",
  "files": {
-  "photo_credits": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/content/photo_credits.json",
-  "country_facts": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/content/country_facts.json",
-  "countries_game": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/content/countries_game.json",
-  "puzzles": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/content/puzzles.json",
-  "spotlight": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@7f93416a6cd69113b424c93ad0fe9bfa3e722fc0/content/spotlight.json"
+  "photo_credits": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/content/photo_credits.json",
+  "country_facts": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/content/country_facts.json",
+  "countries_game": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/content/countries_game.json",
+  "puzzles": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/content/puzzles.json",
+  "spotlight": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@bffa5d5a8e6e212b3c871412c83de33805ff8d24/content/spotlight.json"
  },
  "minBuild": 16
 }
