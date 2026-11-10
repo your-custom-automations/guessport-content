@@ -1,12 +1,12 @@
 {
- "version": "2026.11.09.1753",
- "photosBase": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/photos",
+ "version": "2026.11.10.1521",
+ "photosBase": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/photos",
  "files": {
-  "photo_credits": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/content/photo_credits.json",
-  "country_facts": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/content/country_facts.json",
-  "countries_game": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/content/countries_game.json",
-  "puzzles": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/content/puzzles.json",
-  "spotlight": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@a9075a14e1bbe004aaaa5980761b78c2377245b7/content/spotlight.json"
+  "photo_credits": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/content/photo_credits.json",
+  "country_facts": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/content/country_facts.json",
+  "countries_game": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/content/countries_game.json",
+  "puzzles": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/content/puzzles.json",
+  "spotlight": "https://cdn.jsdelivr.net/gh/your-custom-automations/guessport-content@1af1213554603393bb8686e3c2fa19a77c5174ee/content/spotlight.json"
  },
  "minBuild": 16
 }
